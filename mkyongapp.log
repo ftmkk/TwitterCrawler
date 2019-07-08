@@ -1,0 +1,698 @@
+02:20:35,214 TRACE Crawler:101 - 677 tweets found till now.
+02:20:41,802 TRACE Crawler:101 - 696 tweets found till now.
+02:20:47,916 TRACE Crawler:101 - 696 tweets found till now.
+02:20:49,932 TRACE Crawler:101 - 716 tweets found till now.
+02:20:51,402 TRACE Crawler:101 - 736 tweets found till now.
+02:20:52,750 TRACE Crawler:101 - 736 tweets found till now.
+02:20:54,596 TRACE Crawler:101 - 746 tweets found till now.
+02:20:56,013 TRACE Crawler:101 - 746 tweets found till now.
+02:20:57,109 TRACE Crawler:101 - 746 tweets found till now.
+02:20:58,264 TRACE Crawler:101 - 746 tweets found till now.
+02:20:59,438 TRACE Crawler:101 - 746 tweets found till now.
+02:21:00,532 TRACE Crawler:101 - 746 tweets found till now.
+02:21:01,616 TRACE Crawler:101 - 746 tweets found till now.
+02:21:02,033 TRACE Crawler:107 - adding 746 tweets ...
+02:21:22,444  INFO CrawlerManager:60 - 746 tweets found.
+02:21:23,040  INFO CrawlerManager:72 - 746 tweets added to database.
+02:21:23,041  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2018-09-01 to 2018-10-01]
+02:21:23,041 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2018-09-01 until%3A2018-10-01&src=typd
+02:21:37,857 TRACE Crawler:81 - Page loaded.
+02:21:37,864 TRACE Crawler:84 - 20 tweets found till now.
+02:21:38,501 TRACE Crawler:101 - 20 tweets found till now.
+02:21:39,353 TRACE Crawler:101 - 40 tweets found till now.
+02:21:40,001 TRACE Crawler:101 - 40 tweets found till now.
+02:21:41,034 TRACE Crawler:101 - 57 tweets found till now.
+02:21:41,779 TRACE Crawler:101 - 77 tweets found till now.
+02:21:42,415 TRACE Crawler:101 - 77 tweets found till now.
+02:21:43,459 TRACE Crawler:101 - 97 tweets found till now.
+02:21:44,325 TRACE Crawler:101 - 97 tweets found till now.
+02:21:45,072 TRACE Crawler:101 - 117 tweets found till now.
+02:21:45,737 TRACE Crawler:101 - 117 tweets found till now.
+02:21:46,699 TRACE Crawler:101 - 137 tweets found till now.
+02:21:47,872 TRACE Crawler:101 - 137 tweets found till now.
+02:21:49,215 TRACE Crawler:101 - 157 tweets found till now.
+02:21:50,579 TRACE Crawler:101 - 176 tweets found till now.
+02:21:51,854 TRACE Crawler:101 - 195 tweets found till now.
+02:21:52,643 TRACE Crawler:101 - 215 tweets found till now.
+02:21:53,439 TRACE Crawler:101 - 215 tweets found till now.
+02:21:54,949 TRACE Crawler:101 - 234 tweets found till now.
+02:21:56,459 TRACE Crawler:101 - 254 tweets found till now.
+02:21:57,689 TRACE Crawler:101 - 274 tweets found till now.
+02:21:58,605 TRACE Crawler:101 - 294 tweets found till now.
+02:21:59,539 TRACE Crawler:101 - 294 tweets found till now.
+02:22:01,563 TRACE Crawler:101 - 334 tweets found till now.
+02:22:02,716 TRACE Crawler:101 - 334 tweets found till now.
+02:22:04,172 TRACE Crawler:101 - 353 tweets found till now.
+02:22:05,221 TRACE Crawler:101 - 353 tweets found till now.
+02:22:06,652 TRACE Crawler:101 - 373 tweets found till now.
+02:22:07,688 TRACE Crawler:101 - 393 tweets found till now.
+02:22:09,461 TRACE Crawler:101 - 413 tweets found till now.
+02:22:10,377 TRACE Crawler:101 - 413 tweets found till now.
+02:22:12,561 TRACE Crawler:101 - 448 tweets found till now.
+02:22:13,466 TRACE Crawler:101 - 448 tweets found till now.
+02:22:14,752 TRACE Crawler:101 - 467 tweets found till now.
+02:22:15,698 TRACE Crawler:101 - 467 tweets found till now.
+02:22:18,024 TRACE Crawler:101 - 507 tweets found till now.
+02:22:19,166 TRACE Crawler:101 - 507 tweets found till now.
+02:22:20,860 TRACE Crawler:101 - 526 tweets found till now.
+02:22:22,679 TRACE Crawler:101 - 546 tweets found till now.
+02:22:25,131 TRACE Crawler:101 - 586 tweets found till now.
+02:22:27,090 TRACE Crawler:101 - 606 tweets found till now.
+02:22:29,669 TRACE Crawler:101 - 606 tweets found till now.
+02:22:32,138 TRACE Crawler:101 - 645 tweets found till now.
+02:22:33,378 TRACE Crawler:101 - 645 tweets found till now.
+02:22:35,767 TRACE Crawler:101 - 684 tweets found till now.
+02:22:37,051 TRACE Crawler:101 - 684 tweets found till now.
+02:22:38,825 TRACE Crawler:101 - 694 tweets found till now.
+02:22:40,231 TRACE Crawler:101 - 694 tweets found till now.
+02:22:41,374 TRACE Crawler:101 - 694 tweets found till now.
+02:22:42,305 TRACE Crawler:101 - 694 tweets found till now.
+02:22:43,417 TRACE Crawler:101 - 694 tweets found till now.
+02:22:44,511 TRACE Crawler:101 - 694 tweets found till now.
+02:22:45,616 TRACE Crawler:101 - 694 tweets found till now.
+02:22:45,942 TRACE Crawler:107 - adding 694 tweets ...
+02:23:06,354  INFO CrawlerManager:60 - 693 tweets found.
+02:23:06,864  INFO CrawlerManager:72 - 693 tweets added to database.
+02:23:06,864  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2018-08-01 to 2018-08-31]
+02:23:06,864 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2018-08-01 until%3A2018-08-31&src=typd
+02:23:13,411 TRACE Crawler:81 - Page loaded.
+02:23:13,432 TRACE Crawler:84 - 20 tweets found till now.
+02:23:14,098 TRACE Crawler:101 - 20 tweets found till now.
+02:23:15,144 TRACE Crawler:101 - 40 tweets found till now.
+02:23:15,850 TRACE Crawler:101 - 40 tweets found till now.
+02:23:16,484 TRACE Crawler:101 - 58 tweets found till now.
+02:23:17,111 TRACE Crawler:101 - 58 tweets found till now.
+02:23:17,800 TRACE Crawler:101 - 78 tweets found till now.
+02:23:18,524 TRACE Crawler:101 - 78 tweets found till now.
+02:23:19,323 TRACE Crawler:101 - 98 tweets found till now.
+02:23:20,071 TRACE Crawler:101 - 98 tweets found till now.
+02:23:21,214 TRACE Crawler:101 - 98 tweets found till now.
+02:23:21,891 TRACE Crawler:101 - 118 tweets found till now.
+02:23:22,582 TRACE Crawler:101 - 118 tweets found till now.
+02:23:23,379 TRACE Crawler:101 - 138 tweets found till now.
+02:23:24,087 TRACE Crawler:101 - 138 tweets found till now.
+02:23:24,888 TRACE Crawler:101 - 158 tweets found till now.
+02:23:26,516 TRACE Crawler:101 - 158 tweets found till now.
+02:23:27,727 TRACE Crawler:101 - 178 tweets found till now.
+02:23:29,291 TRACE Crawler:101 - 198 tweets found till now.
+02:23:30,022 TRACE Crawler:101 - 218 tweets found till now.
+02:23:30,779 TRACE Crawler:101 - 218 tweets found till now.
+02:23:31,584 TRACE Crawler:101 - 238 tweets found till now.
+02:23:32,386 TRACE Crawler:101 - 238 tweets found till now.
+02:23:33,861 TRACE Crawler:101 - 258 tweets found till now.
+02:23:34,679 TRACE Crawler:101 - 277 tweets found till now.
+02:23:35,527 TRACE Crawler:101 - 277 tweets found till now.
+02:23:36,996 TRACE Crawler:101 - 297 tweets found till now.
+02:23:38,357 TRACE Crawler:101 - 316 tweets found till now.
+02:23:40,593 TRACE Crawler:101 - 356 tweets found till now.
+02:23:41,580 TRACE Crawler:101 - 356 tweets found till now.
+02:23:43,133 TRACE Crawler:101 - 376 tweets found till now.
+02:23:44,580 TRACE Crawler:101 - 396 tweets found till now.
+02:23:45,497 TRACE Crawler:101 - 396 tweets found till now.
+02:23:46,968 TRACE Crawler:101 - 414 tweets found till now.
+02:23:47,911 TRACE Crawler:101 - 432 tweets found till now.
+02:23:49,094 TRACE Crawler:101 - 432 tweets found till now.
+02:23:50,347 TRACE Crawler:101 - 451 tweets found till now.
+02:23:52,244 TRACE Crawler:101 - 471 tweets found till now.
+02:23:53,759 TRACE Crawler:101 - 491 tweets found till now.
+02:23:55,911 TRACE Crawler:101 - 511 tweets found till now.
+02:23:57,664 TRACE Crawler:101 - 531 tweets found till now.
+02:23:59,847 TRACE Crawler:101 - 551 tweets found till now.
+02:24:01,984 TRACE Crawler:101 - 571 tweets found till now.
+02:24:03,935 TRACE Crawler:101 - 590 tweets found till now.
+02:24:05,800 TRACE Crawler:101 - 610 tweets found till now.
+02:24:07,966 TRACE Crawler:101 - 630 tweets found till now.
+02:24:09,238 TRACE Crawler:101 - 650 tweets found till now.
+02:24:10,593 TRACE Crawler:101 - 650 tweets found till now.
+02:24:12,571 TRACE Crawler:101 - 670 tweets found till now.
+02:24:13,890 TRACE Crawler:101 - 670 tweets found till now.
+02:24:15,196 TRACE Crawler:101 - 670 tweets found till now.
+02:24:16,456 TRACE Crawler:101 - 670 tweets found till now.
+02:24:17,642 TRACE Crawler:101 - 670 tweets found till now.
+02:24:19,178 TRACE Crawler:101 - 670 tweets found till now.
+02:24:20,411 TRACE Crawler:101 - 670 tweets found till now.
+02:24:20,986 TRACE Crawler:107 - adding 670 tweets ...
+02:24:40,888  INFO CrawlerManager:60 - 668 tweets found.
+02:24:41,387  INFO CrawlerManager:72 - 668 tweets added to database.
+02:24:41,387  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2018-07-01 to 2018-07-31]
+02:24:41,387 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2018-07-01 until%3A2018-07-31&src=typd
+02:24:50,684 TRACE Crawler:81 - Page loaded.
+02:24:50,694 TRACE Crawler:84 - 20 tweets found till now.
+02:24:51,367 TRACE Crawler:101 - 20 tweets found till now.
+02:24:52,049 TRACE Crawler:101 - 40 tweets found till now.
+02:24:52,688 TRACE Crawler:101 - 40 tweets found till now.
+02:24:53,361 TRACE Crawler:101 - 60 tweets found till now.
+02:24:54,094 TRACE Crawler:101 - 60 tweets found till now.
+02:24:55,131 TRACE Crawler:101 - 80 tweets found till now.
+02:24:55,821 TRACE Crawler:101 - 80 tweets found till now.
+02:24:56,463 TRACE Crawler:101 - 100 tweets found till now.
+02:24:57,124 TRACE Crawler:101 - 100 tweets found till now.
+02:24:57,918 TRACE Crawler:101 - 120 tweets found till now.
+02:24:58,675 TRACE Crawler:101 - 120 tweets found till now.
+02:25:00,190 TRACE Crawler:101 - 160 tweets found till now.
+02:25:00,895 TRACE Crawler:101 - 160 tweets found till now.
+02:25:02,132 TRACE Crawler:101 - 179 tweets found till now.
+02:25:04,037 TRACE Crawler:101 - 199 tweets found till now.
+02:25:05,464 TRACE Crawler:101 - 219 tweets found till now.
+02:25:06,306 TRACE Crawler:101 - 219 tweets found till now.
+02:25:07,617 TRACE Crawler:101 - 238 tweets found till now.
+02:25:08,517 TRACE Crawler:101 - 257 tweets found till now.
+02:25:09,397 TRACE Crawler:101 - 257 tweets found till now.
+02:25:10,982 TRACE Crawler:101 - 277 tweets found till now.
+02:25:12,384 TRACE Crawler:101 - 297 tweets found till now.
+02:25:14,972 TRACE Crawler:101 - 337 tweets found till now.
+02:25:17,212 TRACE Crawler:101 - 337 tweets found till now.
+02:25:18,528 TRACE Crawler:101 - 357 tweets found till now.
+02:25:19,506 TRACE Crawler:101 - 357 tweets found till now.
+02:25:21,190 TRACE Crawler:101 - 377 tweets found till now.
+02:25:22,771 TRACE Crawler:101 - 396 tweets found till now.
+02:25:24,450 TRACE Crawler:101 - 416 tweets found till now.
+02:25:26,110 TRACE Crawler:101 - 436 tweets found till now.
+02:25:28,072 TRACE Crawler:101 - 455 tweets found till now.
+02:25:29,567 TRACE Crawler:101 - 475 tweets found till now.
+02:25:31,444 TRACE Crawler:101 - 495 tweets found till now.
+02:25:32,937 TRACE Crawler:101 - 515 tweets found till now.
+02:25:35,131 TRACE Crawler:101 - 535 tweets found till now.
+02:25:37,677 TRACE Crawler:101 - 572 tweets found till now.
+02:25:38,878 TRACE Crawler:101 - 572 tweets found till now.
+02:25:40,573 TRACE Crawler:101 - 592 tweets found till now.
+02:25:42,809 TRACE Crawler:101 - 612 tweets found till now.
+02:25:44,572 TRACE Crawler:101 - 630 tweets found till now.
+02:25:46,864 TRACE Crawler:101 - 650 tweets found till now.
+02:25:49,493 TRACE Crawler:101 - 670 tweets found till now.
+02:25:51,192 TRACE Crawler:101 - 690 tweets found till now.
+02:25:53,119 TRACE Crawler:101 - 697 tweets found till now.
+02:25:54,799 TRACE Crawler:101 - 697 tweets found till now.
+02:25:55,886 TRACE Crawler:101 - 697 tweets found till now.
+02:25:57,282 TRACE Crawler:101 - 697 tweets found till now.
+02:25:58,405 TRACE Crawler:101 - 697 tweets found till now.
+02:25:59,636 TRACE Crawler:101 - 697 tweets found till now.
+02:26:00,819 TRACE Crawler:101 - 697 tweets found till now.
+02:26:01,711 TRACE Crawler:107 - adding 697 tweets ...
+02:26:27,095  INFO CrawlerManager:60 - 693 tweets found.
+02:26:27,629  INFO CrawlerManager:72 - 693 tweets added to database.
+02:26:27,629  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2018-05-31 to 2018-06-30]
+02:26:27,629 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2018-05-31 until%3A2018-06-30&src=typd
+02:27:35,388 TRACE Crawler:81 - Page loaded.
+02:27:35,680 TRACE Crawler:84 - 20 tweets found till now.
+02:27:36,295 TRACE Crawler:101 - 20 tweets found till now.
+02:27:37,610 TRACE Crawler:101 - 40 tweets found till now.
+02:27:38,429 TRACE Crawler:101 - 40 tweets found till now.
+02:27:39,267 TRACE Crawler:101 - 60 tweets found till now.
+02:27:39,967 TRACE Crawler:101 - 60 tweets found till now.
+02:27:40,880 TRACE Crawler:101 - 80 tweets found till now.
+02:27:41,718 TRACE Crawler:101 - 80 tweets found till now.
+02:27:42,486 TRACE Crawler:101 - 94 tweets found till now.
+02:27:43,249 TRACE Crawler:101 - 94 tweets found till now.
+02:27:43,951 TRACE Crawler:101 - 94 tweets found till now.
+02:27:44,639 TRACE Crawler:101 - 94 tweets found till now.
+02:27:45,323 TRACE Crawler:101 - 94 tweets found till now.
+02:27:46,009 TRACE Crawler:101 - 94 tweets found till now.
+02:27:46,683 TRACE Crawler:101 - 94 tweets found till now.
+02:27:46,731 TRACE Crawler:107 - adding 94 tweets ...
+02:27:48,965  INFO CrawlerManager:60 - 93 tweets found.
+02:27:49,043  INFO CrawlerManager:72 - 93 tweets added to database.
+02:27:49,043  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2018-04-30 to 2018-05-30]
+02:27:49,043 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2018-04-30 until%3A2018-05-30&src=typd
+02:27:57,764 TRACE Crawler:81 - Page loaded.
+02:27:57,807 TRACE Crawler:84 - 20 tweets found till now.
+02:27:58,427 TRACE Crawler:101 - 20 tweets found till now.
+02:27:59,294 TRACE Crawler:101 - 40 tweets found till now.
+02:27:59,914 TRACE Crawler:101 - 40 tweets found till now.
+02:28:00,806 TRACE Crawler:101 - 60 tweets found till now.
+02:28:01,534 TRACE Crawler:101 - 60 tweets found till now.
+02:28:02,346 TRACE Crawler:101 - 80 tweets found till now.
+02:28:02,998 TRACE Crawler:101 - 80 tweets found till now.
+02:28:03,688 TRACE Crawler:101 - 99 tweets found till now.
+02:28:04,344 TRACE Crawler:101 - 99 tweets found till now.
+02:28:05,024 TRACE Crawler:101 - 119 tweets found till now.
+02:28:06,426 TRACE Crawler:101 - 139 tweets found till now.
+02:28:07,399 TRACE Crawler:101 - 139 tweets found till now.
+02:28:08,632 TRACE Crawler:101 - 159 tweets found till now.
+02:28:09,486 TRACE Crawler:101 - 179 tweets found till now.
+02:28:10,394 TRACE Crawler:101 - 179 tweets found till now.
+02:28:11,763 TRACE Crawler:101 - 199 tweets found till now.
+02:28:12,941 TRACE Crawler:101 - 218 tweets found till now.
+02:28:13,867 TRACE Crawler:101 - 237 tweets found till now.
+02:28:14,692 TRACE Crawler:101 - 237 tweets found till now.
+02:28:16,241 TRACE Crawler:101 - 257 tweets found till now.
+02:28:17,786 TRACE Crawler:101 - 277 tweets found till now.
+02:28:19,117 TRACE Crawler:101 - 297 tweets found till now.
+02:28:20,643 TRACE Crawler:101 - 317 tweets found till now.
+02:28:21,834 TRACE Crawler:101 - 336 tweets found till now.
+02:28:23,633 TRACE Crawler:101 - 356 tweets found till now.
+02:28:25,546 TRACE Crawler:101 - 376 tweets found till now.
+02:28:27,295 TRACE Crawler:101 - 396 tweets found till now.
+02:28:28,625 TRACE Crawler:101 - 416 tweets found till now.
+02:28:29,660 TRACE Crawler:101 - 435 tweets found till now.
+02:28:30,666 TRACE Crawler:101 - 435 tweets found till now.
+02:28:31,799 TRACE Crawler:101 - 435 tweets found till now.
+02:28:32,896 TRACE Crawler:101 - 455 tweets found till now.
+02:28:34,013 TRACE Crawler:101 - 455 tweets found till now.
+02:28:35,708 TRACE Crawler:101 - 475 tweets found till now.
+02:28:37,254 TRACE Crawler:101 - 495 tweets found till now.
+02:28:39,671 TRACE Crawler:101 - 514 tweets found till now.
+02:28:41,598 TRACE Crawler:101 - 534 tweets found till now.
+02:28:43,289 TRACE Crawler:101 - 554 tweets found till now.
+02:28:46,465 TRACE Crawler:101 - 572 tweets found till now.
+02:28:48,166 TRACE Crawler:101 - 592 tweets found till now.
+02:28:50,376 TRACE Crawler:101 - 612 tweets found till now.
+02:28:52,656 TRACE Crawler:101 - 631 tweets found till now.
+02:28:54,764 TRACE Crawler:101 - 648 tweets found till now.
+02:28:56,850 TRACE Crawler:101 - 668 tweets found till now.
+02:28:59,841 TRACE Crawler:101 - 707 tweets found till now.
+02:29:01,321 TRACE Crawler:101 - 707 tweets found till now.
+02:29:05,024 TRACE Crawler:101 - 727 tweets found till now.
+02:29:06,602 TRACE Crawler:101 - 747 tweets found till now.
+02:29:08,156 TRACE Crawler:101 - 747 tweets found till now.
+02:29:10,196 TRACE Crawler:101 - 767 tweets found till now.
+02:29:12,387 TRACE Crawler:101 - 787 tweets found till now.
+02:29:14,772 TRACE Crawler:101 - 807 tweets found till now.
+02:29:17,147 TRACE Crawler:101 - 826 tweets found till now.
+02:29:19,271 TRACE Crawler:101 - 846 tweets found till now.
+02:29:21,628 TRACE Crawler:101 - 866 tweets found till now.
+02:29:23,852 TRACE Crawler:101 - 886 tweets found till now.
+02:29:26,718 TRACE Crawler:101 - 915 tweets found till now.
+02:29:28,317 TRACE Crawler:101 - 915 tweets found till now.
+02:29:29,832 TRACE Crawler:101 - 916 tweets found till now.
+02:29:31,192 TRACE Crawler:101 - 916 tweets found till now.
+02:29:32,488 TRACE Crawler:101 - 916 tweets found till now.
+02:29:33,869 TRACE Crawler:101 - 916 tweets found till now.
+02:29:35,229 TRACE Crawler:101 - 916 tweets found till now.
+02:29:36,430 TRACE Crawler:101 - 916 tweets found till now.
+02:29:37,778 TRACE Crawler:101 - 916 tweets found till now.
+02:29:38,463 TRACE Crawler:107 - adding 916 tweets ...
+02:30:10,599  INFO CrawlerManager:60 - 914 tweets found.
+02:30:11,302  INFO CrawlerManager:72 - 914 tweets added to database.
+02:30:11,302  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2018-03-30 to 2018-04-29]
+02:30:11,302 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2018-03-30 until%3A2018-04-29&src=typd
+02:30:21,509 TRACE Crawler:81 - Page loaded.
+02:30:21,554 TRACE Crawler:84 - 20 tweets found till now.
+02:30:22,187 TRACE Crawler:101 - 20 tweets found till now.
+02:30:22,838 TRACE Crawler:101 - 40 tweets found till now.
+02:30:23,508 TRACE Crawler:101 - 40 tweets found till now.
+02:30:25,862 TRACE Crawler:101 - 40 tweets found till now.
+02:30:27,047 TRACE Crawler:101 - 60 tweets found till now.
+02:30:27,770 TRACE Crawler:101 - 80 tweets found till now.
+02:30:28,458 TRACE Crawler:101 - 80 tweets found till now.
+02:30:29,341 TRACE Crawler:101 - 80 tweets found till now.
+02:30:30,450 TRACE Crawler:101 - 98 tweets found till now.
+02:30:31,141 TRACE Crawler:101 - 98 tweets found till now.
+02:30:31,926 TRACE Crawler:101 - 98 tweets found till now.
+02:30:32,684 TRACE Crawler:101 - 98 tweets found till now.
+02:30:33,392 TRACE Crawler:101 - 98 tweets found till now.
+02:30:34,080 TRACE Crawler:101 - 98 tweets found till now.
+02:30:34,785 TRACE Crawler:101 - 98 tweets found till now.
+02:30:34,920 TRACE Crawler:107 - adding 98 tweets ...
+02:30:37,294  INFO CrawlerManager:60 - 98 tweets found.
+02:30:37,372  INFO CrawlerManager:72 - 98 tweets added to database.
+02:30:37,372  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2018-02-27 to 2018-03-29]
+02:30:37,372 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2018-02-27 until%3A2018-03-29&src=typd
+02:30:42,885 TRACE Crawler:81 - Page loaded.
+02:30:42,900 TRACE Crawler:84 - 20 tweets found till now.
+02:30:43,540 TRACE Crawler:101 - 20 tweets found till now.
+02:30:44,291 TRACE Crawler:101 - 40 tweets found till now.
+02:30:45,364 TRACE Crawler:101 - 40 tweets found till now.
+02:30:46,388 TRACE Crawler:101 - 60 tweets found till now.
+02:30:47,564 TRACE Crawler:101 - 79 tweets found till now.
+02:30:48,365 TRACE Crawler:101 - 79 tweets found till now.
+02:30:49,070 TRACE Crawler:101 - 98 tweets found till now.
+02:30:49,815 TRACE Crawler:101 - 98 tweets found till now.
+02:30:50,779 TRACE Crawler:101 - 98 tweets found till now.
+02:30:51,913 TRACE Crawler:101 - 118 tweets found till now.
+02:30:52,844 TRACE Crawler:101 - 138 tweets found till now.
+02:30:53,636 TRACE Crawler:101 - 138 tweets found till now.
+02:30:54,684 TRACE Crawler:101 - 158 tweets found till now.
+02:30:55,552 TRACE Crawler:101 - 158 tweets found till now.
+02:30:56,844 TRACE Crawler:101 - 178 tweets found till now.
+02:30:57,981 TRACE Crawler:101 - 196 tweets found till now.
+02:30:58,723 TRACE Crawler:101 - 196 tweets found till now.
+02:30:59,760 TRACE Crawler:101 - 216 tweets found till now.
+02:31:00,659 TRACE Crawler:101 - 216 tweets found till now.
+02:31:01,611 TRACE Crawler:101 - 235 tweets found till now.
+02:31:02,481 TRACE Crawler:101 - 235 tweets found till now.
+02:31:03,631 TRACE Crawler:101 - 255 tweets found till now.
+02:31:04,530 TRACE Crawler:101 - 255 tweets found till now.
+02:31:05,843 TRACE Crawler:101 - 275 tweets found till now.
+02:31:07,263 TRACE Crawler:101 - 295 tweets found till now.
+02:31:08,358 TRACE Crawler:101 - 295 tweets found till now.
+02:31:09,779 TRACE Crawler:101 - 314 tweets found till now.
+02:31:11,150 TRACE Crawler:101 - 334 tweets found till now.
+02:31:12,190 TRACE Crawler:101 - 353 tweets found till now.
+02:31:13,014 TRACE Crawler:101 - 353 tweets found till now.
+02:31:14,069 TRACE Crawler:101 - 372 tweets found till now.
+02:31:14,892 TRACE Crawler:101 - 372 tweets found till now.
+02:31:16,056 TRACE Crawler:101 - 389 tweets found till now.
+02:31:17,006 TRACE Crawler:101 - 389 tweets found till now.
+02:31:17,898 TRACE Crawler:101 - 408 tweets found till now.
+02:31:19,318 TRACE Crawler:101 - 408 tweets found till now.
+02:31:20,685 TRACE Crawler:101 - 426 tweets found till now.
+02:31:22,790 TRACE Crawler:101 - 464 tweets found till now.
+02:31:24,153 TRACE Crawler:101 - 464 tweets found till now.
+02:31:25,867 TRACE Crawler:101 - 483 tweets found till now.
+02:31:26,997 TRACE Crawler:101 - 483 tweets found till now.
+02:31:28,748 TRACE Crawler:101 - 501 tweets found till now.
+02:31:30,190 TRACE Crawler:101 - 520 tweets found till now.
+02:31:32,137 TRACE Crawler:101 - 539 tweets found till now.
+02:31:33,971 TRACE Crawler:101 - 559 tweets found till now.
+02:31:35,848 TRACE Crawler:101 - 578 tweets found till now.
+02:31:38,432 TRACE Crawler:101 - 617 tweets found till now.
+02:31:40,135 TRACE Crawler:101 - 617 tweets found till now.
+02:31:42,478 TRACE Crawler:101 - 656 tweets found till now.
+02:31:43,908 TRACE Crawler:101 - 656 tweets found till now.
+02:31:45,630 TRACE Crawler:101 - 676 tweets found till now.
+02:31:47,725 TRACE Crawler:101 - 695 tweets found till now.
+02:31:50,790 TRACE Crawler:101 - 735 tweets found till now.
+02:31:52,092 TRACE Crawler:101 - 735 tweets found till now.
+02:31:53,972 TRACE Crawler:101 - 755 tweets found till now.
+02:31:56,261 TRACE Crawler:101 - 775 tweets found till now.
+02:31:58,062 TRACE Crawler:101 - 795 tweets found till now.
+02:32:00,826 TRACE Crawler:101 - 815 tweets found till now.
+02:32:02,963 TRACE Crawler:101 - 835 tweets found till now.
+02:32:06,214 TRACE Crawler:101 - 875 tweets found till now.
+02:32:08,237 TRACE Crawler:101 - 875 tweets found till now.
+02:32:10,131 TRACE Crawler:101 - 895 tweets found till now.
+02:32:11,726 TRACE Crawler:101 - 895 tweets found till now.
+02:32:13,033 TRACE Crawler:101 - 895 tweets found till now.
+02:32:14,374 TRACE Crawler:101 - 895 tweets found till now.
+02:32:15,808 TRACE Crawler:101 - 895 tweets found till now.
+02:32:17,366 TRACE Crawler:101 - 895 tweets found till now.
+02:32:18,696 TRACE Crawler:101 - 895 tweets found till now.
+02:32:19,238 TRACE Crawler:107 - adding 895 tweets ...
+02:33:13,526  INFO CrawlerManager:60 - 894 tweets found.
+02:33:14,128  INFO CrawlerManager:72 - 894 tweets added to database.
+02:33:14,128  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2018-01-27 to 2018-02-26]
+02:33:14,128 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2018-01-27 until%3A2018-02-26&src=typd
+02:34:26,832 TRACE Crawler:81 - Page loaded.
+02:34:27,294 TRACE Crawler:84 - 20 tweets found till now.
+02:34:27,948 TRACE Crawler:101 - 20 tweets found till now.
+02:34:29,308 TRACE Crawler:101 - 40 tweets found till now.
+02:34:29,979 TRACE Crawler:101 - 40 tweets found till now.
+02:34:30,642 TRACE Crawler:101 - 58 tweets found till now.
+02:34:31,439 TRACE Crawler:101 - 58 tweets found till now.
+02:34:32,888 TRACE Crawler:101 - 78 tweets found till now.
+02:34:34,005 TRACE Crawler:101 - 78 tweets found till now.
+02:34:35,281 TRACE Crawler:101 - 97 tweets found till now.
+02:34:36,202 TRACE Crawler:101 - 97 tweets found till now.
+02:34:37,580 TRACE Crawler:101 - 117 tweets found till now.
+02:34:39,319 TRACE Crawler:101 - 137 tweets found till now.
+02:34:58,675 TRACE Crawler:101 - 157 tweets found till now.
+02:35:00,120 TRACE Crawler:101 - 157 tweets found till now.
+02:35:01,618 TRACE Crawler:101 - 177 tweets found till now.
+02:35:02,544 TRACE Crawler:101 - 197 tweets found till now.
+02:35:03,670 TRACE Crawler:101 - 197 tweets found till now.
+02:35:05,373 TRACE Crawler:101 - 216 tweets found till now.
+02:35:07,326 TRACE Crawler:101 - 236 tweets found till now.
+02:35:09,123 TRACE Crawler:101 - 256 tweets found till now.
+02:35:10,808 TRACE Crawler:101 - 276 tweets found till now.
+02:35:12,581 TRACE Crawler:101 - 296 tweets found till now.
+02:35:14,422 TRACE Crawler:101 - 316 tweets found till now.
+02:35:16,178 TRACE Crawler:101 - 335 tweets found till now.
+02:35:18,738 TRACE Crawler:101 - 375 tweets found till now.
+02:35:20,090 TRACE Crawler:101 - 375 tweets found till now.
+02:35:23,538 TRACE Crawler:101 - 415 tweets found till now.
+02:35:25,959 TRACE Crawler:101 - 415 tweets found till now.
+02:35:27,642 TRACE Crawler:101 - 435 tweets found till now.
+02:35:29,276 TRACE Crawler:101 - 453 tweets found till now.
+02:35:31,616 TRACE Crawler:101 - 471 tweets found till now.
+02:35:33,386 TRACE Crawler:101 - 491 tweets found till now.
+02:35:35,483 TRACE Crawler:101 - 511 tweets found till now.
+02:35:37,010 TRACE Crawler:101 - 531 tweets found till now.
+02:35:38,631 TRACE Crawler:101 - 551 tweets found till now.
+02:35:40,747 TRACE Crawler:101 - 571 tweets found till now.
+02:35:42,547 TRACE Crawler:101 - 591 tweets found till now.
+02:35:44,982 TRACE Crawler:101 - 630 tweets found till now.
+02:35:46,347 TRACE Crawler:101 - 630 tweets found till now.
+02:35:48,297 TRACE Crawler:101 - 650 tweets found till now.
+02:35:50,337 TRACE Crawler:101 - 670 tweets found till now.
+02:35:52,231 TRACE Crawler:101 - 690 tweets found till now.
+02:35:54,976 TRACE Crawler:101 - 730 tweets found till now.
+02:35:56,439 TRACE Crawler:101 - 730 tweets found till now.
+02:35:59,001 TRACE Crawler:101 - 770 tweets found till now.
+02:36:00,894 TRACE Crawler:101 - 770 tweets found till now.
+02:36:02,750 TRACE Crawler:101 - 773 tweets found till now.
+02:36:04,270 TRACE Crawler:101 - 773 tweets found till now.
+02:36:05,653 TRACE Crawler:101 - 773 tweets found till now.
+02:36:07,503 TRACE Crawler:101 - 773 tweets found till now.
+02:36:08,929 TRACE Crawler:101 - 773 tweets found till now.
+02:36:10,381 TRACE Crawler:101 - 773 tweets found till now.
+02:36:11,692 TRACE Crawler:101 - 773 tweets found till now.
+02:36:12,407 TRACE Crawler:107 - adding 773 tweets ...
+02:36:37,064  INFO CrawlerManager:60 - 767 tweets found.
+02:36:37,611  INFO CrawlerManager:72 - 767 tweets added to database.
+02:36:37,611  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2017-12-27 to 2018-01-26]
+02:36:37,611 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2017-12-27 until%3A2018-01-26&src=typd
+02:37:46,407 TRACE Crawler:81 - Page loaded.
+02:37:46,465 TRACE Crawler:84 - 20 tweets found till now.
+02:37:47,132 TRACE Crawler:101 - 20 tweets found till now.
+02:37:48,091 TRACE Crawler:101 - 40 tweets found till now.
+02:37:49,184 TRACE Crawler:101 - 40 tweets found till now.
+02:37:50,419 TRACE Crawler:101 - 60 tweets found till now.
+02:37:51,059 TRACE Crawler:101 - 77 tweets found till now.
+02:37:51,756 TRACE Crawler:101 - 77 tweets found till now.
+02:37:52,468 TRACE Crawler:101 - 97 tweets found till now.
+02:37:53,196 TRACE Crawler:101 - 97 tweets found till now.
+02:37:53,943 TRACE Crawler:101 - 117 tweets found till now.
+02:37:54,676 TRACE Crawler:101 - 117 tweets found till now.
+02:37:55,717 TRACE Crawler:101 - 137 tweets found till now.
+02:37:56,523 TRACE Crawler:101 - 137 tweets found till now.
+02:37:57,469 TRACE Crawler:101 - 157 tweets found till now.
+02:37:58,328 TRACE Crawler:101 - 157 tweets found till now.
+02:38:00,039 TRACE Crawler:101 - 177 tweets found till now.
+02:38:01,554 TRACE Crawler:101 - 197 tweets found till now.
+02:38:02,602 TRACE Crawler:101 - 213 tweets found till now.
+02:38:03,727 TRACE Crawler:101 - 213 tweets found till now.
+02:38:05,360 TRACE Crawler:101 - 233 tweets found till now.
+02:38:06,754 TRACE Crawler:101 - 251 tweets found till now.
+02:38:08,053 TRACE Crawler:101 - 270 tweets found till now.
+02:38:08,986 TRACE Crawler:101 - 270 tweets found till now.
+02:38:10,448 TRACE Crawler:101 - 290 tweets found till now.
+02:38:11,950 TRACE Crawler:101 - 310 tweets found till now.
+02:38:13,544 TRACE Crawler:101 - 330 tweets found till now.
+02:38:14,886 TRACE Crawler:101 - 349 tweets found till now.
+02:38:15,996 TRACE Crawler:101 - 349 tweets found till now.
+02:38:17,195 TRACE Crawler:101 - 369 tweets found till now.
+02:38:18,370 TRACE Crawler:101 - 369 tweets found till now.
+02:38:20,265 TRACE Crawler:101 - 389 tweets found till now.
+02:38:21,700 TRACE Crawler:101 - 409 tweets found till now.
+02:38:23,074 TRACE Crawler:101 - 427 tweets found till now.
+02:38:24,711 TRACE Crawler:101 - 447 tweets found till now.
+02:38:26,379 TRACE Crawler:101 - 467 tweets found till now.
+02:38:27,976 TRACE Crawler:101 - 487 tweets found till now.
+02:38:29,526 TRACE Crawler:101 - 507 tweets found till now.
+02:38:30,674 TRACE Crawler:101 - 507 tweets found till now.
+02:38:32,233 TRACE Crawler:101 - 527 tweets found till now.
+02:38:33,410 TRACE Crawler:101 - 527 tweets found till now.
+02:38:35,264 TRACE Crawler:101 - 547 tweets found till now.
+02:38:36,920 TRACE Crawler:101 - 567 tweets found till now.
+02:38:38,947 TRACE Crawler:101 - 587 tweets found till now.
+02:38:40,842 TRACE Crawler:101 - 606 tweets found till now.
+02:38:43,163 TRACE Crawler:101 - 643 tweets found till now.
+02:38:44,597 TRACE Crawler:101 - 643 tweets found till now.
+02:38:46,623 TRACE Crawler:101 - 663 tweets found till now.
+02:38:48,301 TRACE Crawler:101 - 683 tweets found till now.
+02:38:49,721 TRACE Crawler:101 - 683 tweets found till now.
+02:38:52,561 TRACE Crawler:101 - 721 tweets found till now.
+02:38:54,302 TRACE Crawler:101 - 721 tweets found till now.
+02:38:56,545 TRACE Crawler:101 - 751 tweets found till now.
+02:38:58,100 TRACE Crawler:101 - 751 tweets found till now.
+02:38:59,326 TRACE Crawler:101 - 751 tweets found till now.
+02:39:00,446 TRACE Crawler:101 - 751 tweets found till now.
+02:39:03,274 TRACE Crawler:101 - 751 tweets found till now.
+02:39:04,711 TRACE Crawler:101 - 751 tweets found till now.
+02:39:08,539 TRACE Crawler:101 - 751 tweets found till now.
+02:39:09,278 TRACE Crawler:107 - adding 751 tweets ...
+02:39:30,726  INFO CrawlerManager:60 - 744 tweets found.
+02:39:31,330  INFO CrawlerManager:72 - 744 tweets added to database.
+02:39:31,331  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2017-11-26 to 2017-12-26]
+02:39:31,331 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2017-11-26 until%3A2017-12-26&src=typd
+02:39:42,045 TRACE Crawler:81 - Page loaded.
+02:39:42,066 TRACE Crawler:84 - 20 tweets found till now.
+02:39:42,717 TRACE Crawler:101 - 20 tweets found till now.
+02:39:43,566 TRACE Crawler:101 - 40 tweets found till now.
+02:39:44,201 TRACE Crawler:101 - 40 tweets found till now.
+02:39:45,148 TRACE Crawler:101 - 60 tweets found till now.
+02:39:45,815 TRACE Crawler:101 - 60 tweets found till now.
+02:39:47,004 TRACE Crawler:101 - 78 tweets found till now.
+02:39:47,769 TRACE Crawler:101 - 97 tweets found till now.
+02:39:48,478 TRACE Crawler:101 - 97 tweets found till now.
+02:39:49,273 TRACE Crawler:101 - 117 tweets found till now.
+02:39:50,087 TRACE Crawler:101 - 117 tweets found till now.
+02:39:51,116 TRACE Crawler:101 - 136 tweets found till now.
+02:39:52,321 TRACE Crawler:101 - 156 tweets found till now.
+02:39:53,492 TRACE Crawler:101 - 176 tweets found till now.
+02:39:54,742 TRACE Crawler:101 - 196 tweets found till now.
+02:39:55,570 TRACE Crawler:101 - 196 tweets found till now.
+02:39:56,546 TRACE Crawler:101 - 216 tweets found till now.
+02:39:57,330 TRACE Crawler:101 - 216 tweets found till now.
+02:39:58,606 TRACE Crawler:101 - 236 tweets found till now.
+02:40:00,012 TRACE Crawler:101 - 254 tweets found till now.
+02:40:01,869 TRACE Crawler:101 - 294 tweets found till now.
+02:40:02,788 TRACE Crawler:101 - 294 tweets found till now.
+02:40:03,656 TRACE Crawler:101 - 314 tweets found till now.
+02:40:04,609 TRACE Crawler:101 - 314 tweets found till now.
+02:40:06,054 TRACE Crawler:101 - 334 tweets found till now.
+02:40:07,966 TRACE Crawler:101 - 373 tweets found till now.
+02:40:09,797 TRACE Crawler:101 - 373 tweets found till now.
+02:40:11,269 TRACE Crawler:101 - 392 tweets found till now.
+02:40:13,335 TRACE Crawler:101 - 431 tweets found till now.
+02:40:14,601 TRACE Crawler:101 - 431 tweets found till now.
+02:40:16,039 TRACE Crawler:101 - 451 tweets found till now.
+02:40:17,822 TRACE Crawler:101 - 471 tweets found till now.
+02:40:20,668 TRACE Crawler:101 - 491 tweets found till now.
+02:40:22,443 TRACE Crawler:101 - 511 tweets found till now.
+02:40:24,338 TRACE Crawler:101 - 531 tweets found till now.
+02:40:25,999 TRACE Crawler:101 - 551 tweets found till now.
+02:40:28,210 TRACE Crawler:101 - 590 tweets found till now.
+02:40:29,542 TRACE Crawler:101 - 590 tweets found till now.
+02:40:31,456 TRACE Crawler:101 - 610 tweets found till now.
+02:40:33,465 TRACE Crawler:101 - 629 tweets found till now.
+02:40:35,512 TRACE Crawler:101 - 649 tweets found till now.
+02:40:37,415 TRACE Crawler:101 - 669 tweets found till now.
+02:40:39,177 TRACE Crawler:101 - 689 tweets found till now.
+02:40:41,305 TRACE Crawler:101 - 709 tweets found till now.
+02:40:43,318 TRACE Crawler:101 - 729 tweets found till now.
+02:40:45,491 TRACE Crawler:101 - 748 tweets found till now.
+02:40:46,843 TRACE Crawler:101 - 748 tweets found till now.
+02:40:48,053 TRACE Crawler:101 - 748 tweets found till now.
+02:40:49,368 TRACE Crawler:101 - 748 tweets found till now.
+02:40:50,534 TRACE Crawler:101 - 748 tweets found till now.
+02:40:51,711 TRACE Crawler:101 - 748 tweets found till now.
+02:40:53,026 TRACE Crawler:101 - 748 tweets found till now.
+02:40:53,753 TRACE Crawler:107 - adding 748 tweets ...
+02:41:16,282  INFO CrawlerManager:60 - 746 tweets found.
+02:41:16,850  INFO CrawlerManager:72 - 746 tweets added to database.
+02:41:16,850  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2017-10-26 to 2017-11-25]
+02:41:16,850 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2017-10-26 until%3A2017-11-25&src=typd
+02:41:24,784 TRACE Crawler:81 - Page loaded.
+02:41:24,833 TRACE Crawler:84 - 20 tweets found till now.
+02:41:25,492 TRACE Crawler:101 - 20 tweets found till now.
+02:41:26,204 TRACE Crawler:101 - 40 tweets found till now.
+02:41:26,872 TRACE Crawler:101 - 40 tweets found till now.
+02:41:27,664 TRACE Crawler:101 - 58 tweets found till now.
+02:41:28,326 TRACE Crawler:101 - 58 tweets found till now.
+02:41:28,968 TRACE Crawler:101 - 78 tweets found till now.
+02:41:29,678 TRACE Crawler:101 - 78 tweets found till now.
+02:41:30,387 TRACE Crawler:101 - 96 tweets found till now.
+02:41:31,588 TRACE Crawler:101 - 115 tweets found till now.
+02:41:33,187 TRACE Crawler:101 - 135 tweets found till now.
+02:41:33,931 TRACE Crawler:101 - 135 tweets found till now.
+02:41:35,104 TRACE Crawler:101 - 155 tweets found till now.
+02:41:36,447 TRACE Crawler:101 - 175 tweets found till now.
+02:41:37,258 TRACE Crawler:101 - 175 tweets found till now.
+02:41:38,112 TRACE Crawler:101 - 193 tweets found till now.
+02:41:38,911 TRACE Crawler:101 - 193 tweets found till now.
+02:41:39,726 TRACE Crawler:101 - 213 tweets found till now.
+02:41:40,657 TRACE Crawler:101 - 213 tweets found till now.
+02:41:41,517 TRACE Crawler:101 - 233 tweets found till now.
+02:41:42,378 TRACE Crawler:101 - 233 tweets found till now.
+02:41:43,773 TRACE Crawler:101 - 253 tweets found till now.
+02:41:45,011 TRACE Crawler:101 - 272 tweets found till now.
+02:41:46,385 TRACE Crawler:101 - 292 tweets found till now.
+02:41:47,843 TRACE Crawler:101 - 311 tweets found till now.
+02:41:49,147 TRACE Crawler:101 - 331 tweets found till now.
+02:41:50,463 TRACE Crawler:101 - 351 tweets found till now.
+02:41:52,082 TRACE Crawler:101 - 370 tweets found till now.
+02:41:53,402 TRACE Crawler:101 - 389 tweets found till now.
+02:41:55,557 TRACE Crawler:101 - 429 tweets found till now.
+02:41:56,828 TRACE Crawler:101 - 429 tweets found till now.
+02:41:58,263 TRACE Crawler:101 - 449 tweets found till now.
+02:41:59,689 TRACE Crawler:101 - 468 tweets found till now.
+02:42:01,273 TRACE Crawler:101 - 488 tweets found till now.
+02:42:02,794 TRACE Crawler:101 - 508 tweets found till now.
+02:42:04,118 TRACE Crawler:101 - 508 tweets found till now.
+02:42:05,762 TRACE Crawler:101 - 526 tweets found till now.
+02:42:06,879 TRACE Crawler:101 - 526 tweets found till now.
+02:42:08,555 TRACE Crawler:101 - 546 tweets found till now.
+02:42:09,801 TRACE Crawler:101 - 546 tweets found till now.
+02:42:11,459 TRACE Crawler:101 - 566 tweets found till now.
+02:42:14,026 TRACE Crawler:101 - 606 tweets found till now.
+02:42:15,304 TRACE Crawler:101 - 606 tweets found till now.
+02:42:18,596 TRACE Crawler:101 - 625 tweets found till now.
+02:42:20,629 TRACE Crawler:101 - 645 tweets found till now.
+02:42:23,123 TRACE Crawler:101 - 684 tweets found till now.
+02:42:24,335 TRACE Crawler:101 - 684 tweets found till now.
+02:42:26,259 TRACE Crawler:101 - 703 tweets found till now.
+02:42:28,214 TRACE Crawler:101 - 722 tweets found till now.
+02:42:29,520 TRACE Crawler:101 - 722 tweets found till now.
+02:42:31,764 TRACE Crawler:101 - 747 tweets found till now.
+02:42:33,268 TRACE Crawler:101 - 747 tweets found till now.
+02:42:34,739 TRACE Crawler:101 - 747 tweets found till now.
+02:42:35,983 TRACE Crawler:101 - 747 tweets found till now.
+02:42:37,228 TRACE Crawler:101 - 747 tweets found till now.
+02:42:38,444 TRACE Crawler:101 - 747 tweets found till now.
+02:42:39,636 TRACE Crawler:101 - 747 tweets found till now.
+02:42:40,138 TRACE Crawler:107 - adding 747 tweets ...
+02:43:00,522  INFO CrawlerManager:60 - 745 tweets found.
+02:43:01,081  INFO CrawlerManager:72 - 745 tweets added to database.
+02:43:01,081  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2017-09-25 to 2017-10-25]
+02:43:01,081 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2017-09-25 until%3A2017-10-25&src=typd
+02:43:08,738 TRACE Crawler:81 - Page loaded.
+02:43:08,800 TRACE Crawler:84 - 20 tweets found till now.
+02:43:09,435 TRACE Crawler:101 - 20 tweets found till now.
+02:43:10,191 TRACE Crawler:101 - 40 tweets found till now.
+02:43:10,819 TRACE Crawler:101 - 40 tweets found till now.
+02:43:11,610 TRACE Crawler:101 - 60 tweets found till now.
+02:43:12,336 TRACE Crawler:101 - 60 tweets found till now.
+02:43:13,379 TRACE Crawler:101 - 80 tweets found till now.
+02:43:14,078 TRACE Crawler:101 - 96 tweets found till now.
+02:43:14,750 TRACE Crawler:101 - 96 tweets found till now.
+02:43:15,489 TRACE Crawler:101 - 96 tweets found till now.
+02:43:16,166 TRACE Crawler:101 - 96 tweets found till now.
+02:43:16,857 TRACE Crawler:101 - 96 tweets found till now.
+02:43:17,552 TRACE Crawler:101 - 96 tweets found till now.
+02:43:18,221 TRACE Crawler:101 - 96 tweets found till now.
+02:43:18,276 TRACE Crawler:107 - adding 96 tweets ...
+02:43:20,513  INFO CrawlerManager:60 - 96 tweets found.
+02:43:20,594  INFO CrawlerManager:72 - 96 tweets added to database.
+02:43:20,594  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: crowdfunding[2017-08-25 to 2017-09-24]
+02:43:20,594 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="crowdfunding" since%3A2017-08-25 until%3A2017-09-24&src=typd
+02:44:28,540 TRACE Crawler:81 - Page loaded.
+02:44:28,564 TRACE Crawler:84 - 20 tweets found till now.
+02:44:29,251 TRACE Crawler:101 - 20 tweets found till now.
+02:44:29,991 TRACE Crawler:101 - 40 tweets found till now.
+02:44:30,687 TRACE Crawler:101 - 40 tweets found till now.
+02:44:31,398 TRACE Crawler:101 - 60 tweets found till now.
+02:44:32,181 TRACE Crawler:101 - 60 tweets found till now.
+02:44:32,842 TRACE Crawler:101 - 79 tweets found till now.
+02:44:33,507 TRACE Crawler:101 - 79 tweets found till now.
+02:44:34,211 TRACE Crawler:101 - 99 tweets found till now.
+02:44:34,992 TRACE Crawler:101 - 99 tweets found till now.
+02:44:35,724 TRACE Crawler:101 - 118 tweets found till now.
+02:44:36,689 TRACE Crawler:101 - 138 tweets found till now.
+02:44:37,383 TRACE Crawler:101 - 138 tweets found till now.
+02:44:38,546 TRACE Crawler:101 - 157 tweets found till now.
+02:44:39,368 TRACE Crawler:101 - 176 tweets found till now.
+02:44:40,130 TRACE Crawler:101 - 176 tweets found till now.
+02:44:41,864 TRACE Crawler:101 - 216 tweets found till now.
+02:44:42,745 TRACE Crawler:101 - 216 tweets found till now.
+02:44:44,511 TRACE Crawler:101 - 256 tweets found till now.
+02:44:45,425 TRACE Crawler:101 - 256 tweets found till now.
+02:44:46,921 TRACE Crawler:101 - 276 tweets found till now.
+02:44:48,142 TRACE Crawler:101 - 296 tweets found till now.
+02:44:50,050 TRACE Crawler:101 - 334 tweets found till now.
+02:44:51,095 TRACE Crawler:101 - 334 tweets found till now.
+02:44:52,622 TRACE Crawler:101 - 354 tweets found till now.
+02:44:54,043 TRACE Crawler:101 - 372 tweets found till now.
+02:44:55,788 TRACE Crawler:101 - 392 tweets found till now.
+02:44:57,302 TRACE Crawler:101 - 411 tweets found till now.
+02:44:58,811 TRACE Crawler:101 - 431 tweets found till now.
+02:45:00,844 TRACE Crawler:101 - 471 tweets found till now.
+02:45:02,004 TRACE Crawler:101 - 471 tweets found till now.
+02:45:03,961 TRACE Crawler:101 - 510 tweets found till now.
+02:45:05,805 TRACE Crawler:101 - 530 tweets found till now.
+02:45:06,885 TRACE Crawler:101 - 530 tweets found till now.
+02:45:08,763 TRACE Crawler:101 - 569 tweets found till now.
+02:45:09,971 TRACE Crawler:101 - 569 tweets found till now.
+02:45:12,053 TRACE Crawler:101 - 608 tweets found till now.
+02:45:15,531 TRACE Crawler:101 - 627 tweets found till now.
+02:45:17,371 TRACE Crawler:101 - 646 tweets found till now.
+02:45:18,566 TRACE Crawler:101 - 646 tweets found till now.
+02:45:21,035 TRACE Crawler:101 - 685 tweets found till now.
+02:45:22,357 TRACE Crawler:101 - 685 tweets found till now.
+02:45:24,254 TRACE Crawler:101 - 705 tweets found till now.
+02:45:26,358 TRACE Crawler:101 - 725 tweets found till now.
+02:50:40,763  INFO Main:43 - Searching for 500000 tweets using tag: medicaid
+02:50:40,764  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: medicaid[2019-06-07 to 2019-07-07]
+02:50:40,764 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="medicaid" since%3A2019-06-07 until%3A2019-07-07&src=typd
+02:51:13,802  INFO Main:52 - Driver closed.

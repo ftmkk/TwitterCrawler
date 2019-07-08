@@ -1,47 +1,48 @@
-import com.machinepublishers.jbrowserdriver.*;
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 
     private static Logger logger = Logger.getLogger(Main.class);
-//    static Logger logger = LoggerFactory.getLogger(Main.class);
-//    public static MySQLAccess mysqlAccess;
 
     public static void main(String[] args) {
+
+        int totalTweetCount = 500000;
+        int tweetPerTimePeriod = 2000;
+        int timePeriodInDays = 30;
+        boolean headless = true;
+        String lang = "en";
+        String tagFile = "keyTags/searching_items.txt";
+        boolean doubleSearchTags = true;
+
 
         logger.setLevel(Level.INFO);
         BasicConfigurator.configure();
 
-        Crawler crawler = new Crawler(true);
+        List<String> tagList = readTagList(tagFile,doubleSearchTags);
+        logger.info(tagList.size()+" tags found.");
+
+
+        Crawler crawler = new Crawler(headless,lang);
         crawler.setDriver();
         logger.info("Driver set.");
 
-        List<String> tagList = readTagList("keyTags/frequentResponses.csv");
-//        List<String> tagList = readTagList("stimuliList.csv");
-        logger.info(tagList.size()+" tags found.");
+        CrawlerManager manager = new CrawlerManager(
+                totalTweetCount,
+                tweetPerTimePeriod,
+                timePeriodInDays,
+                crawler);
 
-        int tweetCount = 1000;
         for (String tag : tagList) {
             try{
-                logger.info("Searching for "+tweetCount+" tweets using tag: "+tag);
-                List<Tweet> tweets = crawler.fetchTweets(tag, tweetCount);
-                logger.info(tweets.size()+" tweets found.");
-
-                int cntr = 0;
-                for (Tweet t : tweets) {
-                    if(Hibernate.add(t)) cntr++;
-                }
-                logger.info(cntr+" tweets added to database.");
+                logger.info("Searching for "+totalTweetCount+" tweets using tag: "+tag);
+                int tweetCounter = manager.run(tag);
+                logger.info("Totally, "+tweetCounter+" tweets found.");
             }catch (Exception e){
                 e.printStackTrace();
             }
@@ -52,7 +53,7 @@ public class Main {
     }
 
 
-    public static List<String> readTagList(String path){
+    public static List<String> readTagList(String path,boolean doubleSearchTags){
         File file =
                 new File(path);
         Scanner sc = null;
@@ -66,7 +67,7 @@ public class Main {
         List<String> savedTags = Hibernate.getSavedTags();
         while (sc != null && sc.hasNextLine()){
             String tag = sc.nextLine().trim().replace(" ","_").replace("\u200C","_");
-            if(!savedTags.contains(tag)){
+            if(!savedTags.contains(tag) || doubleSearchTags){
                 tagList.add(tag);
             }
         }

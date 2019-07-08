@@ -16,7 +16,7 @@ public class Tweet {
     @Column private String tweetId;
 
     @Column private boolean isReply;
-    @Column(columnDefinition = "varchar(4000)") private String mentions;
+    @Column(columnDefinition = "varchar(6000)") private String mentions;
 
     @Column private String fullname;
     @Column private String username;

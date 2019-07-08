@@ -6,6 +6,8 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -16,12 +18,15 @@ import java.util.concurrent.TimeUnit;
  */
 public class Crawler {
 
-    JBrowserDriver driver;
-    boolean headless;
+    private static DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+    private JBrowserDriver driver;
+    private boolean headless;
+    private String lang;
     private static Logger logger = Logger.getLogger(Crawler.class);
 
-    public Crawler(boolean headless) {
+    public Crawler(boolean headless, String lang) {
         this.headless = headless;
+        this.lang = lang;
         logger.setLevel(Level.TRACE);
     }
 
@@ -52,31 +57,37 @@ public class Crawler {
     }
 
 
-    public static String urlOfSearchTag(String tag){
-        return "https://twitter.com/search?q=%23"+tag+"&l=fa";
+    public String urlOfSearchTag(String tag){
+//        return "https://twitter.com/search?q=%23"+tag+"&l=fa";
+        return "https://twitter.com/search?q=%23"+tag+"&l="+lang;
     }
 
-    public List<Tweet> fetchTweets(String tag, int desiredTweetCount){
+    public String urlOfSearchTag(String tag, Date startDate, Date endDate){
+//        return "https://twitter.com/search?q=%23"+tag+"&l=fa";
+//        return "https://twitter.com/search?q=%23"+tag+"&l=en";
 
-        String url = urlOfSearchTag(tag);
+        return "https://twitter.com/search?" +
+                "l="+lang+"" +
+                "&q=\""+tag+"\"" +
+                " since%3A"+dateFormat.format(startDate) +
+                " until%3A"+dateFormat.format(endDate)+
+                "&src=typd";
+    }
+
+    public List<Tweet> fetchTweets(String url,String tag, int desiredTweetCount){
+
         logger.trace("going to url: "+url);
         driver.get(url);
         logger.trace("Page loaded.");
-
-//        System.out.println(driver.getStatusCode());
-//        System.out.println(driver.getCurrentUrl());
-//        System.out.println(driver.getTitle());
-//        System.out.println(driver.getPageSource());
-//        System.out.println(driver.findElementByClassName("content").getAttribute("innerHTML"));
 
         int currentCount = driver.findElements(By.cssSelector(".tweet")).size();
         logger.trace(currentCount+" tweets found till now.");
         int lastCount;
         int cntr = 0;
-        while (currentCount < desiredTweetCount && cntr <= 10 && currentCount!=0) {
+        while (currentCount < desiredTweetCount && cntr <= 5 && currentCount>15) {
             driver.executeScript("window.scrollTo(0, document.body.scrollHeight)");
             try {
-                Thread.sleep(1000);
+                Thread.sleep(600);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -88,7 +99,6 @@ public class Crawler {
                 cntr = 0;
             }
             logger.trace(currentCount+" tweets found till now.");
-//            System.out.println(currentCount);
         }
 
 
@@ -108,9 +118,6 @@ public class Crawler {
                 System.out.println(e.getAttribute("outerHTML"));
             }
         }
-
-//        driver.reset();
-//        logger.trace("Driver reset.");
 
         return tweets;
     }
