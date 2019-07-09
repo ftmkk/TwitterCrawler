@@ -696,3 +696,1372 @@
 02:50:40,764  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: medicaid[2019-06-07 to 2019-07-07]
 02:50:40,764 TRACE Crawler:79 - going to url: https://twitter.com/search?l=en&q="medicaid" since%3A2019-06-07 until%3A2019-07-07&src=typd
 02:51:13,802  INFO Main:52 - Driver closed.
+12:04:24,142  INFO Main:28 - 0 tags found.
+12:04:25,886  INFO Main:33 - Driver set.
+12:04:26,926  INFO Main:52 - Driver closed.
+12:05:29,745  INFO Main:28 - 296 tags found.
+12:05:31,159  INFO Main:33 - Driver set.
+12:05:31,160  INFO Main:43 - Searching for 500000 tweets using tag: ماه_مهر
+12:05:31,162  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2019-06-08 to 2019-07-08]
+12:05:31,162 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:05:41,202 TRACE Crawler:81 - Page loaded.
+12:05:41,285 TRACE Crawler:84 - 20 tweets found till now.
+12:05:41,914 TRACE Crawler:101 - 25 tweets found till now.
+12:05:42,560 TRACE Crawler:101 - 28 tweets found till now.
+12:05:43,182 TRACE Crawler:101 - 28 tweets found till now.
+12:05:43,797 TRACE Crawler:101 - 28 tweets found till now.
+12:05:44,430 TRACE Crawler:101 - 28 tweets found till now.
+12:05:45,053 TRACE Crawler:101 - 28 tweets found till now.
+12:05:45,670 TRACE Crawler:101 - 28 tweets found till now.
+12:05:46,292 TRACE Crawler:101 - 28 tweets found till now.
+12:05:46,320 TRACE Crawler:107 - adding 28 tweets ...
+12:05:46,918  INFO CrawlerManager:60 - 28 tweets found.
+12:05:47,144  INFO CrawlerManager:72 - 28 tweets added to database.
+12:05:47,144  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2019-05-08 to 2019-06-07]
+12:05:47,144 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:05:51,118 TRACE Crawler:81 - Page loaded.
+12:05:51,119 TRACE Crawler:84 - 0 tweets found till now.
+12:05:51,120 TRACE Crawler:107 - adding 0 tweets ...
+12:05:51,120  INFO CrawlerManager:60 - 0 tweets found.
+12:05:51,120  INFO CrawlerManager:72 - 0 tweets added to database.
+12:05:51,121  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2019-03-08 to 2019-04-07]
+12:05:51,121 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:05:54,238 TRACE Crawler:81 - Page loaded.
+12:05:54,255 TRACE Crawler:84 - 0 tweets found till now.
+12:05:54,256 TRACE Crawler:107 - adding 0 tweets ...
+12:05:54,256  INFO CrawlerManager:60 - 0 tweets found.
+12:05:54,256  INFO CrawlerManager:72 - 0 tweets added to database.
+12:05:54,257  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2018-12-07 to 2019-01-06]
+12:05:54,257 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:05:58,718 TRACE Crawler:81 - Page loaded.
+12:05:58,720 TRACE Crawler:84 - 0 tweets found till now.
+12:05:58,723 TRACE Crawler:107 - adding 0 tweets ...
+12:05:58,723  INFO CrawlerManager:60 - 0 tweets found.
+12:05:58,723  INFO CrawlerManager:72 - 0 tweets added to database.
+12:05:58,724  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2018-08-08 to 2018-09-07]
+12:05:58,724 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:06:01,786 TRACE Crawler:81 - Page loaded.
+12:06:01,787 TRACE Crawler:84 - 0 tweets found till now.
+12:06:01,788 TRACE Crawler:107 - adding 0 tweets ...
+12:06:01,788  INFO CrawlerManager:60 - 0 tweets found.
+12:06:01,788  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:01,788  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2018-03-10 to 2018-04-09]
+12:06:01,788 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:06:08,156 TRACE Crawler:81 - Page loaded.
+12:06:08,157 TRACE Crawler:84 - 0 tweets found till now.
+12:06:08,158 TRACE Crawler:107 - adding 0 tweets ...
+12:06:08,159  INFO CrawlerManager:60 - 0 tweets found.
+12:06:08,159  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:08,159  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2017-09-10 to 2017-10-10]
+12:06:08,159 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:06:12,475 TRACE Crawler:81 - Page loaded.
+12:06:12,588 TRACE Crawler:84 - 0 tweets found till now.
+12:06:12,590 TRACE Crawler:107 - adding 0 tweets ...
+12:06:12,590  INFO CrawlerManager:60 - 0 tweets found.
+12:06:12,590  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:12,590  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2017-02-11 to 2017-03-13]
+12:06:12,590 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:06:14,701 TRACE Crawler:81 - Page loaded.
+12:06:14,824 TRACE Crawler:84 - 0 tweets found till now.
+12:06:14,825 TRACE Crawler:107 - adding 0 tweets ...
+12:06:14,825  INFO CrawlerManager:60 - 0 tweets found.
+12:06:14,825  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:14,825  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2016-06-15 to 2016-07-15]
+12:06:14,826 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:06:18,585 TRACE Crawler:81 - Page loaded.
+12:06:18,587 TRACE Crawler:84 - 0 tweets found till now.
+12:06:18,589 TRACE Crawler:107 - adding 0 tweets ...
+12:06:18,589  INFO CrawlerManager:60 - 0 tweets found.
+12:06:18,589  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:18,590  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2015-09-18 to 2015-10-18]
+12:06:18,590 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:06:23,053 TRACE Crawler:81 - Page loaded.
+12:06:23,055 TRACE Crawler:84 - 0 tweets found till now.
+12:06:23,056 TRACE Crawler:107 - adding 0 tweets ...
+12:06:23,056  INFO CrawlerManager:60 - 0 tweets found.
+12:06:23,056  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:23,057  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2014-11-21 to 2014-12-21]
+12:06:23,057 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:06:26,367 TRACE Crawler:81 - Page loaded.
+12:06:26,472 TRACE Crawler:84 - 0 tweets found till now.
+12:06:26,474 TRACE Crawler:107 - adding 0 tweets ...
+12:06:26,474  INFO CrawlerManager:60 - 0 tweets found.
+12:06:26,474  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:26,475  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2013-12-25 to 2014-01-24]
+12:06:26,475 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:06:32,892 TRACE Crawler:81 - Page loaded.
+12:06:32,894 TRACE Crawler:84 - 0 tweets found till now.
+12:06:32,894 TRACE Crawler:107 - adding 0 tweets ...
+12:06:32,894  INFO CrawlerManager:60 - 0 tweets found.
+12:06:32,894  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:32,895  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2012-12-29 to 2013-01-28]
+12:06:32,895 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:06:36,705 TRACE Crawler:81 - Page loaded.
+12:06:36,707 TRACE Crawler:84 - 0 tweets found till now.
+12:06:36,708 TRACE Crawler:107 - adding 0 tweets ...
+12:06:36,708  INFO CrawlerManager:60 - 0 tweets found.
+12:06:36,708  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:36,709  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2011-12-04 to 2012-01-03]
+12:06:36,709 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:06:40,921 TRACE Crawler:81 - Page loaded.
+12:06:40,923 TRACE Crawler:84 - 0 tweets found till now.
+12:06:40,924 TRACE Crawler:107 - adding 0 tweets ...
+12:06:40,924  INFO CrawlerManager:60 - 0 tweets found.
+12:06:40,924  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:40,925  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2010-10-09 to 2010-11-08]
+12:06:40,925 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:06:44,035 TRACE Crawler:81 - Page loaded.
+12:06:44,109 TRACE Crawler:84 - 0 tweets found till now.
+12:06:44,110 TRACE Crawler:107 - adding 0 tweets ...
+12:06:44,111  INFO CrawlerManager:60 - 0 tweets found.
+12:06:44,111  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:44,111  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2009-07-15 to 2009-08-14]
+12:06:44,112 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:06:46,723 TRACE Crawler:81 - Page loaded.
+12:06:46,820 TRACE Crawler:84 - 0 tweets found till now.
+12:06:46,821 TRACE Crawler:107 - adding 0 tweets ...
+12:06:46,821  INFO CrawlerManager:60 - 0 tweets found.
+12:06:46,821  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:46,821  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2008-03-21 to 2008-04-20]
+12:06:46,821 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:06:49,880 TRACE Crawler:81 - Page loaded.
+12:06:49,975 TRACE Crawler:84 - 0 tweets found till now.
+12:06:49,976 TRACE Crawler:107 - adding 0 tweets ...
+12:06:49,976  INFO CrawlerManager:60 - 0 tweets found.
+12:06:49,976  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:49,976  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2006-10-27 to 2006-11-26]
+12:06:49,977 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:06:53,436 TRACE Crawler:81 - Page loaded.
+12:06:53,544 TRACE Crawler:84 - 0 tweets found till now.
+12:06:53,545 TRACE Crawler:107 - adding 0 tweets ...
+12:06:53,545  INFO CrawlerManager:60 - 0 tweets found.
+12:06:53,545  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:53,545  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ماه_مهر[2005-05-04 to 2005-06-03]
+12:06:53,545 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ماه_مهر" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:06:57,455 TRACE Crawler:81 - Page loaded.
+12:06:57,456 TRACE Crawler:84 - 0 tweets found till now.
+12:06:57,457 TRACE Crawler:107 - adding 0 tweets ...
+12:06:57,457  INFO CrawlerManager:60 - 0 tweets found.
+12:06:57,458  INFO CrawlerManager:72 - 0 tweets added to database.
+12:06:57,458  INFO Main:45 - Totally, 0 tweets found.
+12:06:57,458  INFO Main:43 - Searching for 500000 tweets using tag: تخت
+12:06:57,458  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2019-06-08 to 2019-07-08]
+12:06:57,459 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:07:02,822 TRACE Crawler:81 - Page loaded.
+12:07:02,844 TRACE Crawler:84 - 13 tweets found till now.
+12:07:02,848 TRACE Crawler:107 - adding 13 tweets ...
+12:07:03,142  INFO CrawlerManager:60 - 11 tweets found.
+12:07:03,176  INFO CrawlerManager:72 - 11 tweets added to database.
+12:07:03,176  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2019-05-08 to 2019-06-07]
+12:07:03,176 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:07:07,443 TRACE Crawler:81 - Page loaded.
+12:07:07,682 TRACE Crawler:84 - 0 tweets found till now.
+12:07:07,683 TRACE Crawler:107 - adding 0 tweets ...
+12:07:07,683  INFO CrawlerManager:60 - 0 tweets found.
+12:07:07,683  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:07,684  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2019-03-08 to 2019-04-07]
+12:07:07,684 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:07:11,444 TRACE Crawler:81 - Page loaded.
+12:07:11,446 TRACE Crawler:84 - 0 tweets found till now.
+12:07:11,447 TRACE Crawler:107 - adding 0 tweets ...
+12:07:11,447  INFO CrawlerManager:60 - 0 tweets found.
+12:07:11,447  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:11,447  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2018-12-07 to 2019-01-06]
+12:07:11,448 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:07:14,608 TRACE Crawler:81 - Page loaded.
+12:07:14,610 TRACE Crawler:84 - 0 tweets found till now.
+12:07:14,615 TRACE Crawler:107 - adding 0 tweets ...
+12:07:14,615  INFO CrawlerManager:60 - 0 tweets found.
+12:07:14,615  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:14,615  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2018-08-08 to 2018-09-07]
+12:07:14,616 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:07:17,373 TRACE Crawler:81 - Page loaded.
+12:07:17,375 TRACE Crawler:84 - 0 tweets found till now.
+12:07:17,376 TRACE Crawler:107 - adding 0 tweets ...
+12:07:17,376  INFO CrawlerManager:60 - 0 tweets found.
+12:07:17,376  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:17,376  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2018-03-10 to 2018-04-09]
+12:07:17,376 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:07:21,286 TRACE Crawler:81 - Page loaded.
+12:07:21,287 TRACE Crawler:84 - 0 tweets found till now.
+12:07:21,288 TRACE Crawler:107 - adding 0 tweets ...
+12:07:21,288  INFO CrawlerManager:60 - 0 tweets found.
+12:07:21,288  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:21,288  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2017-09-10 to 2017-10-10]
+12:07:21,289 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:07:25,103 TRACE Crawler:81 - Page loaded.
+12:07:25,218 TRACE Crawler:84 - 0 tweets found till now.
+12:07:25,219 TRACE Crawler:107 - adding 0 tweets ...
+12:07:25,219  INFO CrawlerManager:60 - 0 tweets found.
+12:07:25,219  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:25,220  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2017-02-11 to 2017-03-13]
+12:07:25,220 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:07:28,228 TRACE Crawler:81 - Page loaded.
+12:07:28,376 TRACE Crawler:84 - 0 tweets found till now.
+12:07:28,380 TRACE Crawler:107 - adding 0 tweets ...
+12:07:28,380  INFO CrawlerManager:60 - 0 tweets found.
+12:07:28,380  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:28,380  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2016-06-15 to 2016-07-15]
+12:07:28,380 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:07:30,787 TRACE Crawler:81 - Page loaded.
+12:07:30,789 TRACE Crawler:84 - 0 tweets found till now.
+12:07:30,790 TRACE Crawler:107 - adding 0 tweets ...
+12:07:30,790  INFO CrawlerManager:60 - 0 tweets found.
+12:07:30,790  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:30,790  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2015-09-18 to 2015-10-18]
+12:07:30,790 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:07:33,747 TRACE Crawler:81 - Page loaded.
+12:07:33,887 TRACE Crawler:84 - 0 tweets found till now.
+12:07:33,888 TRACE Crawler:107 - adding 0 tweets ...
+12:07:33,889  INFO CrawlerManager:60 - 0 tweets found.
+12:07:33,889  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:33,889  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2014-11-21 to 2014-12-21]
+12:07:33,889 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:07:35,895 TRACE Crawler:81 - Page loaded.
+12:07:36,022 TRACE Crawler:84 - 0 tweets found till now.
+12:07:36,023 TRACE Crawler:107 - adding 0 tweets ...
+12:07:36,023  INFO CrawlerManager:60 - 0 tweets found.
+12:07:36,023  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:36,024  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2013-12-25 to 2014-01-24]
+12:07:36,024 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:07:39,233 TRACE Crawler:81 - Page loaded.
+12:07:39,234 TRACE Crawler:84 - 0 tweets found till now.
+12:07:39,236 TRACE Crawler:107 - adding 0 tweets ...
+12:07:39,236  INFO CrawlerManager:60 - 0 tweets found.
+12:07:39,236  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:39,236  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2012-12-29 to 2013-01-28]
+12:07:39,236 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:07:42,142 TRACE Crawler:81 - Page loaded.
+12:07:42,143 TRACE Crawler:84 - 0 tweets found till now.
+12:07:42,143 TRACE Crawler:107 - adding 0 tweets ...
+12:07:42,144  INFO CrawlerManager:60 - 0 tweets found.
+12:07:42,144  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:42,144  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2011-12-04 to 2012-01-03]
+12:07:42,144 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:07:44,701 TRACE Crawler:81 - Page loaded.
+12:07:44,960 TRACE Crawler:84 - 0 tweets found till now.
+12:07:44,962 TRACE Crawler:107 - adding 0 tweets ...
+12:07:44,962  INFO CrawlerManager:60 - 0 tweets found.
+12:07:44,962  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:44,963  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2010-10-09 to 2010-11-08]
+12:07:44,963 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:07:47,070 TRACE Crawler:81 - Page loaded.
+12:07:47,192 TRACE Crawler:84 - 0 tweets found till now.
+12:07:47,193 TRACE Crawler:107 - adding 0 tweets ...
+12:07:47,193  INFO CrawlerManager:60 - 0 tweets found.
+12:07:47,193  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:47,193  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2009-07-15 to 2009-08-14]
+12:07:47,193 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:07:49,701 TRACE Crawler:81 - Page loaded.
+12:07:49,702 TRACE Crawler:84 - 0 tweets found till now.
+12:07:49,703 TRACE Crawler:107 - adding 0 tweets ...
+12:07:49,703  INFO CrawlerManager:60 - 0 tweets found.
+12:07:49,703  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:49,704  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2008-03-21 to 2008-04-20]
+12:07:49,704 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:07:53,216 TRACE Crawler:81 - Page loaded.
+12:07:53,217 TRACE Crawler:84 - 0 tweets found till now.
+12:07:53,225 TRACE Crawler:107 - adding 0 tweets ...
+12:07:53,226  INFO CrawlerManager:60 - 0 tweets found.
+12:07:53,226  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:53,226  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2006-10-27 to 2006-11-26]
+12:07:53,227 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:07:57,736 TRACE Crawler:81 - Page loaded.
+12:07:57,738 TRACE Crawler:84 - 0 tweets found till now.
+12:07:57,739 TRACE Crawler:107 - adding 0 tweets ...
+12:07:57,739  INFO CrawlerManager:60 - 0 tweets found.
+12:07:57,739  INFO CrawlerManager:72 - 0 tweets added to database.
+12:07:57,739  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تخت[2005-05-04 to 2005-06-03]
+12:07:57,739 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تخت" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:08:00,548 TRACE Crawler:81 - Page loaded.
+12:08:00,549 TRACE Crawler:84 - 0 tweets found till now.
+12:08:00,550 TRACE Crawler:107 - adding 0 tweets ...
+12:08:00,550  INFO CrawlerManager:60 - 0 tweets found.
+12:08:00,550  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:00,551  INFO Main:45 - Totally, 0 tweets found.
+12:08:00,551  INFO Main:43 - Searching for 500000 tweets using tag: چاق
+12:08:00,551  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2019-06-08 to 2019-07-08]
+12:08:00,551 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:08:04,109 TRACE Crawler:81 - Page loaded.
+12:08:04,113 TRACE Crawler:84 - 20 tweets found till now.
+12:08:04,787 TRACE Crawler:101 - 35 tweets found till now.
+12:08:05,519 TRACE Crawler:101 - 48 tweets found till now.
+12:08:06,182 TRACE Crawler:101 - 60 tweets found till now.
+12:08:06,827 TRACE Crawler:101 - 72 tweets found till now.
+12:08:07,467 TRACE Crawler:101 - 81 tweets found till now.
+12:08:08,123 TRACE Crawler:101 - 93 tweets found till now.
+12:08:08,740 TRACE Crawler:101 - 101 tweets found till now.
+12:08:09,374 TRACE Crawler:101 - 116 tweets found till now.
+12:08:09,992 TRACE Crawler:101 - 132 tweets found till now.
+12:08:10,631 TRACE Crawler:101 - 148 tweets found till now.
+12:08:11,246 TRACE Crawler:101 - 151 tweets found till now.
+12:08:11,861 TRACE Crawler:101 - 151 tweets found till now.
+12:08:12,484 TRACE Crawler:101 - 151 tweets found till now.
+12:08:13,098 TRACE Crawler:101 - 151 tweets found till now.
+12:08:13,715 TRACE Crawler:101 - 151 tweets found till now.
+12:08:14,331 TRACE Crawler:101 - 151 tweets found till now.
+12:08:14,948 TRACE Crawler:101 - 151 tweets found till now.
+12:08:14,965 TRACE Crawler:107 - adding 151 tweets ...
+12:08:17,170  INFO CrawlerManager:60 - 149 tweets found.
+12:08:17,554  INFO CrawlerManager:72 - 149 tweets added to database.
+12:08:17,555  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2019-05-08 to 2019-06-07]
+12:08:17,555 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:08:20,561 TRACE Crawler:81 - Page loaded.
+12:08:20,757 TRACE Crawler:84 - 0 tweets found till now.
+12:08:20,758 TRACE Crawler:107 - adding 0 tweets ...
+12:08:20,758  INFO CrawlerManager:60 - 0 tweets found.
+12:08:20,758  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:20,758  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2019-03-08 to 2019-04-07]
+12:08:20,758 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:08:22,463 TRACE Crawler:81 - Page loaded.
+12:08:22,669 TRACE Crawler:84 - 0 tweets found till now.
+12:08:22,670 TRACE Crawler:107 - adding 0 tweets ...
+12:08:22,670  INFO CrawlerManager:60 - 0 tweets found.
+12:08:22,670  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:22,670  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2018-12-07 to 2019-01-06]
+12:08:22,670 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:08:25,427 TRACE Crawler:81 - Page loaded.
+12:08:25,605 TRACE Crawler:84 - 0 tweets found till now.
+12:08:25,606 TRACE Crawler:107 - adding 0 tweets ...
+12:08:25,606  INFO CrawlerManager:60 - 0 tweets found.
+12:08:25,606  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:25,606  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2018-08-08 to 2018-09-07]
+12:08:25,607 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:08:29,014 TRACE Crawler:81 - Page loaded.
+12:08:29,235 TRACE Crawler:84 - 0 tweets found till now.
+12:08:29,235 TRACE Crawler:107 - adding 0 tweets ...
+12:08:29,235  INFO CrawlerManager:60 - 0 tweets found.
+12:08:29,235  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:29,235  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2018-03-10 to 2018-04-09]
+12:08:29,236 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:08:31,402 TRACE Crawler:81 - Page loaded.
+12:08:31,620 TRACE Crawler:84 - 0 tweets found till now.
+12:08:31,621 TRACE Crawler:107 - adding 0 tweets ...
+12:08:31,621  INFO CrawlerManager:60 - 0 tweets found.
+12:08:31,621  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:31,621  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2017-09-10 to 2017-10-10]
+12:08:31,621 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:08:35,129 TRACE Crawler:81 - Page loaded.
+12:08:35,339 TRACE Crawler:84 - 0 tweets found till now.
+12:08:35,340 TRACE Crawler:107 - adding 0 tweets ...
+12:08:35,340  INFO CrawlerManager:60 - 0 tweets found.
+12:08:35,340  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:35,340  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2017-02-11 to 2017-03-13]
+12:08:35,340 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:08:37,546 TRACE Crawler:81 - Page loaded.
+12:08:37,708 TRACE Crawler:84 - 0 tweets found till now.
+12:08:37,709 TRACE Crawler:107 - adding 0 tweets ...
+12:08:37,709  INFO CrawlerManager:60 - 0 tweets found.
+12:08:37,709  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:37,709  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2016-06-15 to 2016-07-15]
+12:08:37,709 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:08:40,566 TRACE Crawler:81 - Page loaded.
+12:08:40,748 TRACE Crawler:84 - 0 tweets found till now.
+12:08:40,748 TRACE Crawler:107 - adding 0 tweets ...
+12:08:40,748  INFO CrawlerManager:60 - 0 tweets found.
+12:08:40,748  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:40,748  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2015-09-18 to 2015-10-18]
+12:08:40,748 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:08:42,904 TRACE Crawler:81 - Page loaded.
+12:08:43,103 TRACE Crawler:84 - 0 tweets found till now.
+12:08:43,104 TRACE Crawler:107 - adding 0 tweets ...
+12:08:43,104  INFO CrawlerManager:60 - 0 tweets found.
+12:08:43,104  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:43,104  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2014-11-21 to 2014-12-21]
+12:08:43,104 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:08:45,560 TRACE Crawler:81 - Page loaded.
+12:08:45,716 TRACE Crawler:84 - 0 tweets found till now.
+12:08:45,717 TRACE Crawler:107 - adding 0 tweets ...
+12:08:45,717  INFO CrawlerManager:60 - 0 tweets found.
+12:08:45,717  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:45,717  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2013-12-25 to 2014-01-24]
+12:08:45,717 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:08:47,173 TRACE Crawler:81 - Page loaded.
+12:08:47,343 TRACE Crawler:84 - 0 tweets found till now.
+12:08:47,343 TRACE Crawler:107 - adding 0 tweets ...
+12:08:47,343  INFO CrawlerManager:60 - 0 tweets found.
+12:08:47,343  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:47,344  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2012-12-29 to 2013-01-28]
+12:08:47,344 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:08:49,700 TRACE Crawler:81 - Page loaded.
+12:08:49,924 TRACE Crawler:84 - 0 tweets found till now.
+12:08:49,925 TRACE Crawler:107 - adding 0 tweets ...
+12:08:49,925  INFO CrawlerManager:60 - 0 tweets found.
+12:08:49,925  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:49,925  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2011-12-04 to 2012-01-03]
+12:08:49,926 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:08:51,731 TRACE Crawler:81 - Page loaded.
+12:08:51,923 TRACE Crawler:84 - 0 tweets found till now.
+12:08:51,924 TRACE Crawler:107 - adding 0 tweets ...
+12:08:51,924  INFO CrawlerManager:60 - 0 tweets found.
+12:08:51,924  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:51,924  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2010-10-09 to 2010-11-08]
+12:08:51,924 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:08:54,832 TRACE Crawler:81 - Page loaded.
+12:08:55,074 TRACE Crawler:84 - 0 tweets found till now.
+12:08:55,076 TRACE Crawler:107 - adding 0 tweets ...
+12:08:55,076  INFO CrawlerManager:60 - 0 tweets found.
+12:08:55,076  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:55,076  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2009-07-15 to 2009-08-14]
+12:08:55,076 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:08:57,131 TRACE Crawler:81 - Page loaded.
+12:08:57,347 TRACE Crawler:84 - 0 tweets found till now.
+12:08:57,348 TRACE Crawler:107 - adding 0 tweets ...
+12:08:57,348  INFO CrawlerManager:60 - 0 tweets found.
+12:08:57,348  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:57,348  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2008-03-21 to 2008-04-20]
+12:08:57,348 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:08:59,705 TRACE Crawler:81 - Page loaded.
+12:08:59,892 TRACE Crawler:84 - 0 tweets found till now.
+12:08:59,892 TRACE Crawler:107 - adding 0 tweets ...
+12:08:59,893  INFO CrawlerManager:60 - 0 tweets found.
+12:08:59,893  INFO CrawlerManager:72 - 0 tweets added to database.
+12:08:59,893  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2006-10-27 to 2006-11-26]
+12:08:59,893 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:09:01,397 TRACE Crawler:81 - Page loaded.
+12:09:01,585 TRACE Crawler:84 - 0 tweets found till now.
+12:09:01,586 TRACE Crawler:107 - adding 0 tweets ...
+12:09:01,587  INFO CrawlerManager:60 - 0 tweets found.
+12:09:01,587  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:01,587  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: چاق[2005-05-04 to 2005-06-03]
+12:09:01,587 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="چاق" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:09:03,894 TRACE Crawler:81 - Page loaded.
+12:09:04,104 TRACE Crawler:84 - 0 tweets found till now.
+12:09:04,104 TRACE Crawler:107 - adding 0 tweets ...
+12:09:04,104  INFO CrawlerManager:60 - 0 tweets found.
+12:09:04,104  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:04,105  INFO Main:45 - Totally, 0 tweets found.
+12:09:04,105  INFO Main:43 - Searching for 500000 tweets using tag: تنبان
+12:09:04,105  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2019-06-08 to 2019-07-08]
+12:09:04,105 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:09:07,263 TRACE Crawler:81 - Page loaded.
+12:09:07,266 TRACE Crawler:84 - 20 tweets found till now.
+12:09:08,012 TRACE Crawler:101 - 40 tweets found till now.
+12:09:08,624 TRACE Crawler:101 - 54 tweets found till now.
+12:09:09,233 TRACE Crawler:101 - 59 tweets found till now.
+12:09:09,842 TRACE Crawler:101 - 60 tweets found till now.
+12:09:10,454 TRACE Crawler:101 - 62 tweets found till now.
+12:09:11,064 TRACE Crawler:101 - 62 tweets found till now.
+12:09:11,674 TRACE Crawler:101 - 62 tweets found till now.
+12:09:12,280 TRACE Crawler:101 - 62 tweets found till now.
+12:09:12,887 TRACE Crawler:101 - 62 tweets found till now.
+12:09:13,499 TRACE Crawler:101 - 62 tweets found till now.
+12:09:14,104 TRACE Crawler:101 - 62 tweets found till now.
+12:09:14,109 TRACE Crawler:107 - adding 62 tweets ...
+12:09:15,218  INFO CrawlerManager:60 - 62 tweets found.
+12:09:15,360  INFO CrawlerManager:72 - 62 tweets added to database.
+12:09:15,361  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2019-05-08 to 2019-06-07]
+12:09:15,361 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:09:17,569 TRACE Crawler:81 - Page loaded.
+12:09:17,750 TRACE Crawler:84 - 0 tweets found till now.
+12:09:17,751 TRACE Crawler:107 - adding 0 tweets ...
+12:09:17,751  INFO CrawlerManager:60 - 0 tweets found.
+12:09:17,751  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:17,751  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2019-03-08 to 2019-04-07]
+12:09:17,751 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:09:19,908 TRACE Crawler:81 - Page loaded.
+12:09:20,083 TRACE Crawler:84 - 0 tweets found till now.
+12:09:20,083 TRACE Crawler:107 - adding 0 tweets ...
+12:09:20,084  INFO CrawlerManager:60 - 0 tweets found.
+12:09:20,084  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:20,084  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2018-12-07 to 2019-01-06]
+12:09:20,084 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:09:22,191 TRACE Crawler:81 - Page loaded.
+12:09:22,359 TRACE Crawler:84 - 0 tweets found till now.
+12:09:22,359 TRACE Crawler:107 - adding 0 tweets ...
+12:09:22,360  INFO CrawlerManager:60 - 0 tweets found.
+12:09:22,360  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:22,360  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2018-08-08 to 2018-09-07]
+12:09:22,360 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:09:24,265 TRACE Crawler:81 - Page loaded.
+12:09:24,440 TRACE Crawler:84 - 0 tweets found till now.
+12:09:24,441 TRACE Crawler:107 - adding 0 tweets ...
+12:09:24,441  INFO CrawlerManager:60 - 0 tweets found.
+12:09:24,441  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:24,441  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2018-03-10 to 2018-04-09]
+12:09:24,441 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:09:26,848 TRACE Crawler:81 - Page loaded.
+12:09:27,080 TRACE Crawler:84 - 0 tweets found till now.
+12:09:27,081 TRACE Crawler:107 - adding 0 tweets ...
+12:09:27,081  INFO CrawlerManager:60 - 0 tweets found.
+12:09:27,081  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:27,082  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2017-09-10 to 2017-10-10]
+12:09:27,082 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:09:28,989 TRACE Crawler:81 - Page loaded.
+12:09:29,187 TRACE Crawler:84 - 0 tweets found till now.
+12:09:29,188 TRACE Crawler:107 - adding 0 tweets ...
+12:09:29,188  INFO CrawlerManager:60 - 0 tweets found.
+12:09:29,188  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:29,188  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2017-02-11 to 2017-03-13]
+12:09:29,188 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:09:31,301 TRACE Crawler:81 - Page loaded.
+12:09:31,503 TRACE Crawler:84 - 0 tweets found till now.
+12:09:31,504 TRACE Crawler:107 - adding 0 tweets ...
+12:09:31,504  INFO CrawlerManager:60 - 0 tweets found.
+12:09:31,504  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:31,504  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2016-06-15 to 2016-07-15]
+12:09:31,504 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:09:33,409 TRACE Crawler:81 - Page loaded.
+12:09:33,602 TRACE Crawler:84 - 0 tweets found till now.
+12:09:33,603 TRACE Crawler:107 - adding 0 tweets ...
+12:09:33,603  INFO CrawlerManager:60 - 0 tweets found.
+12:09:33,603  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:33,603  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2015-09-18 to 2015-10-18]
+12:09:33,604 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:09:37,313 TRACE Crawler:81 - Page loaded.
+12:09:37,462 TRACE Crawler:84 - 0 tweets found till now.
+12:09:37,466 TRACE Crawler:107 - adding 0 tweets ...
+12:09:37,467  INFO CrawlerManager:60 - 0 tweets found.
+12:09:37,467  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:37,467  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2014-11-21 to 2014-12-21]
+12:09:37,467 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:09:40,076 TRACE Crawler:81 - Page loaded.
+12:09:40,236 TRACE Crawler:84 - 0 tweets found till now.
+12:09:40,237 TRACE Crawler:107 - adding 0 tweets ...
+12:09:40,237  INFO CrawlerManager:60 - 0 tweets found.
+12:09:40,237  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:40,237  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2013-12-25 to 2014-01-24]
+12:09:40,237 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:09:43,897 TRACE Crawler:81 - Page loaded.
+12:09:44,057 TRACE Crawler:84 - 0 tweets found till now.
+12:09:44,058 TRACE Crawler:107 - adding 0 tweets ...
+12:09:44,058  INFO CrawlerManager:60 - 0 tweets found.
+12:09:44,058  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:44,058  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2012-12-29 to 2013-01-28]
+12:09:44,058 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:09:46,215 TRACE Crawler:81 - Page loaded.
+12:09:46,388 TRACE Crawler:84 - 0 tweets found till now.
+12:09:46,389 TRACE Crawler:107 - adding 0 tweets ...
+12:09:46,389  INFO CrawlerManager:60 - 0 tweets found.
+12:09:46,389  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:46,389  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2011-12-04 to 2012-01-03]
+12:09:46,389 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:09:48,695 TRACE Crawler:81 - Page loaded.
+12:09:48,856 TRACE Crawler:84 - 0 tweets found till now.
+12:09:48,857 TRACE Crawler:107 - adding 0 tweets ...
+12:09:48,857  INFO CrawlerManager:60 - 0 tweets found.
+12:09:48,857  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:48,857  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2010-10-09 to 2010-11-08]
+12:09:48,857 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:09:51,514 TRACE Crawler:81 - Page loaded.
+12:09:51,709 TRACE Crawler:84 - 0 tweets found till now.
+12:09:51,710 TRACE Crawler:107 - adding 0 tweets ...
+12:09:51,710  INFO CrawlerManager:60 - 0 tweets found.
+12:09:51,710  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:51,710  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2009-07-15 to 2009-08-14]
+12:09:51,710 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:09:54,568 TRACE Crawler:81 - Page loaded.
+12:09:54,731 TRACE Crawler:84 - 0 tweets found till now.
+12:09:54,732 TRACE Crawler:107 - adding 0 tweets ...
+12:09:54,732  INFO CrawlerManager:60 - 0 tweets found.
+12:09:54,732  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:54,732  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2008-03-21 to 2008-04-20]
+12:09:54,732 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:09:57,191 TRACE Crawler:81 - Page loaded.
+12:09:57,335 TRACE Crawler:84 - 0 tweets found till now.
+12:09:57,336 TRACE Crawler:107 - adding 0 tweets ...
+12:09:57,336  INFO CrawlerManager:60 - 0 tweets found.
+12:09:57,336  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:57,336  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2006-10-27 to 2006-11-26]
+12:09:57,336 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:09:59,091 TRACE Crawler:81 - Page loaded.
+12:09:59,294 TRACE Crawler:84 - 0 tweets found till now.
+12:09:59,295 TRACE Crawler:107 - adding 0 tweets ...
+12:09:59,295  INFO CrawlerManager:60 - 0 tweets found.
+12:09:59,295  INFO CrawlerManager:72 - 0 tweets added to database.
+12:09:59,295  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: تنبان[2005-05-04 to 2005-06-03]
+12:09:59,295 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="تنبان" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:10:01,702 TRACE Crawler:81 - Page loaded.
+12:10:01,864 TRACE Crawler:84 - 0 tweets found till now.
+12:10:01,864 TRACE Crawler:107 - adding 0 tweets ...
+12:10:01,864  INFO CrawlerManager:60 - 0 tweets found.
+12:10:01,864  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:01,864  INFO Main:45 - Totally, 0 tweets found.
+12:10:01,864  INFO Main:43 - Searching for 500000 tweets using tag: ابهت
+12:10:01,864  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2019-06-08 to 2019-07-08]
+12:10:01,865 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:10:04,923 TRACE Crawler:81 - Page loaded.
+12:10:04,926 TRACE Crawler:84 - 20 tweets found till now.
+12:10:05,531 TRACE Crawler:101 - 20 tweets found till now.
+12:10:06,137 TRACE Crawler:101 - 37 tweets found till now.
+12:10:06,944 TRACE Crawler:101 - 48 tweets found till now.
+12:10:07,555 TRACE Crawler:101 - 59 tweets found till now.
+12:10:08,163 TRACE Crawler:101 - 68 tweets found till now.
+12:10:08,772 TRACE Crawler:101 - 81 tweets found till now.
+12:10:09,399 TRACE Crawler:101 - 91 tweets found till now.
+12:10:10,010 TRACE Crawler:101 - 102 tweets found till now.
+12:10:10,621 TRACE Crawler:101 - 115 tweets found till now.
+12:10:11,239 TRACE Crawler:101 - 121 tweets found till now.
+12:10:11,851 TRACE Crawler:101 - 122 tweets found till now.
+12:10:12,465 TRACE Crawler:101 - 122 tweets found till now.
+12:10:13,078 TRACE Crawler:101 - 122 tweets found till now.
+12:10:13,700 TRACE Crawler:101 - 122 tweets found till now.
+12:10:14,363 TRACE Crawler:101 - 122 tweets found till now.
+12:10:14,973 TRACE Crawler:101 - 122 tweets found till now.
+12:10:15,587 TRACE Crawler:101 - 122 tweets found till now.
+12:10:15,597 TRACE Crawler:107 - adding 122 tweets ...
+12:10:16,987  INFO CrawlerManager:60 - 121 tweets found.
+12:10:17,178  INFO CrawlerManager:72 - 121 tweets added to database.
+12:10:17,178  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2019-05-08 to 2019-06-07]
+12:10:17,178 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:10:19,986 TRACE Crawler:81 - Page loaded.
+12:10:20,143 TRACE Crawler:84 - 0 tweets found till now.
+12:10:20,144 TRACE Crawler:107 - adding 0 tweets ...
+12:10:20,144  INFO CrawlerManager:60 - 0 tweets found.
+12:10:20,144  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:20,144  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2019-03-08 to 2019-04-07]
+12:10:20,144 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:10:21,799 TRACE Crawler:81 - Page loaded.
+12:10:21,984 TRACE Crawler:84 - 0 tweets found till now.
+12:10:21,985 TRACE Crawler:107 - adding 0 tweets ...
+12:10:21,985  INFO CrawlerManager:60 - 0 tweets found.
+12:10:21,985  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:21,985  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2018-12-07 to 2019-01-06]
+12:10:21,985 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:10:23,994 TRACE Crawler:81 - Page loaded.
+12:10:24,176 TRACE Crawler:84 - 0 tweets found till now.
+12:10:24,177 TRACE Crawler:107 - adding 0 tweets ...
+12:10:24,177  INFO CrawlerManager:60 - 0 tweets found.
+12:10:24,177  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:24,177  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2018-08-08 to 2018-09-07]
+12:10:24,177 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:10:26,089 TRACE Crawler:81 - Page loaded.
+12:10:26,277 TRACE Crawler:84 - 0 tweets found till now.
+12:10:26,277 TRACE Crawler:107 - adding 0 tweets ...
+12:10:26,277  INFO CrawlerManager:60 - 0 tweets found.
+12:10:26,277  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:26,278  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2018-03-10 to 2018-04-09]
+12:10:26,278 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:10:27,932 TRACE Crawler:81 - Page loaded.
+12:10:28,130 TRACE Crawler:84 - 0 tweets found till now.
+12:10:28,130 TRACE Crawler:107 - adding 0 tweets ...
+12:10:28,130  INFO CrawlerManager:60 - 0 tweets found.
+12:10:28,130  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:28,130  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2017-09-10 to 2017-10-10]
+12:10:28,130 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:10:30,587 TRACE Crawler:81 - Page loaded.
+12:10:30,768 TRACE Crawler:84 - 0 tweets found till now.
+12:10:30,768 TRACE Crawler:107 - adding 0 tweets ...
+12:10:30,768  INFO CrawlerManager:60 - 0 tweets found.
+12:10:30,768  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:30,769  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2017-02-11 to 2017-03-13]
+12:10:30,769 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:10:33,024 TRACE Crawler:81 - Page loaded.
+12:10:33,178 TRACE Crawler:84 - 0 tweets found till now.
+12:10:33,178 TRACE Crawler:107 - adding 0 tweets ...
+12:10:33,179  INFO CrawlerManager:60 - 0 tweets found.
+12:10:33,179  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:33,179  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2016-06-15 to 2016-07-15]
+12:10:33,179 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:10:34,734 TRACE Crawler:81 - Page loaded.
+12:10:34,913 TRACE Crawler:84 - 0 tweets found till now.
+12:10:34,913 TRACE Crawler:107 - adding 0 tweets ...
+12:10:34,914  INFO CrawlerManager:60 - 0 tweets found.
+12:10:34,914  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:34,914  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2015-09-18 to 2015-10-18]
+12:10:34,914 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:10:36,669 TRACE Crawler:81 - Page loaded.
+12:10:36,833 TRACE Crawler:84 - 0 tweets found till now.
+12:10:36,834 TRACE Crawler:107 - adding 0 tweets ...
+12:10:36,834  INFO CrawlerManager:60 - 0 tweets found.
+12:10:36,834  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:36,835  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2014-11-21 to 2014-12-21]
+12:10:36,835 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:10:39,141 TRACE Crawler:81 - Page loaded.
+12:10:39,301 TRACE Crawler:84 - 0 tweets found till now.
+12:10:39,302 TRACE Crawler:107 - adding 0 tweets ...
+12:10:39,302  INFO CrawlerManager:60 - 0 tweets found.
+12:10:39,302  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:39,302  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2013-12-25 to 2014-01-24]
+12:10:39,302 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:10:40,908 TRACE Crawler:81 - Page loaded.
+12:10:41,105 TRACE Crawler:84 - 0 tweets found till now.
+12:10:41,105 TRACE Crawler:107 - adding 0 tweets ...
+12:10:41,105  INFO CrawlerManager:60 - 0 tweets found.
+12:10:41,105  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:41,105  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2012-12-29 to 2013-01-28]
+12:10:41,105 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:10:42,716 TRACE Crawler:81 - Page loaded.
+12:10:42,875 TRACE Crawler:84 - 0 tweets found till now.
+12:10:42,876 TRACE Crawler:107 - adding 0 tweets ...
+12:10:42,876  INFO CrawlerManager:60 - 0 tweets found.
+12:10:42,876  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:42,876  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2011-12-04 to 2012-01-03]
+12:10:42,876 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:10:45,634 TRACE Crawler:81 - Page loaded.
+12:10:45,829 TRACE Crawler:84 - 0 tweets found till now.
+12:10:45,829 TRACE Crawler:107 - adding 0 tweets ...
+12:10:45,830  INFO CrawlerManager:60 - 0 tweets found.
+12:10:45,830  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:45,830  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2010-10-09 to 2010-11-08]
+12:10:45,830 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:10:47,886 TRACE Crawler:81 - Page loaded.
+12:10:48,042 TRACE Crawler:84 - 0 tweets found till now.
+12:10:48,043 TRACE Crawler:107 - adding 0 tweets ...
+12:10:48,043  INFO CrawlerManager:60 - 0 tweets found.
+12:10:48,043  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:48,043  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2009-07-15 to 2009-08-14]
+12:10:48,043 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:10:51,555 TRACE Crawler:81 - Page loaded.
+12:10:51,749 TRACE Crawler:84 - 0 tweets found till now.
+12:10:51,749 TRACE Crawler:107 - adding 0 tweets ...
+12:10:51,749  INFO CrawlerManager:60 - 0 tweets found.
+12:10:51,749  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:51,750  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2008-03-21 to 2008-04-20]
+12:10:51,750 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:10:55,058 TRACE Crawler:81 - Page loaded.
+12:10:55,228 TRACE Crawler:84 - 0 tweets found till now.
+12:10:55,228 TRACE Crawler:107 - adding 0 tweets ...
+12:10:55,228  INFO CrawlerManager:60 - 0 tweets found.
+12:10:55,228  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:55,228  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2006-10-27 to 2006-11-26]
+12:10:55,228 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:10:56,833 TRACE Crawler:81 - Page loaded.
+12:10:57,022 TRACE Crawler:84 - 0 tweets found till now.
+12:10:57,023 TRACE Crawler:107 - adding 0 tweets ...
+12:10:57,023  INFO CrawlerManager:60 - 0 tweets found.
+12:10:57,023  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:57,023  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: ابهت[2005-05-04 to 2005-06-03]
+12:10:57,023 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="ابهت" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:10:59,480 TRACE Crawler:81 - Page loaded.
+12:10:59,646 TRACE Crawler:84 - 0 tweets found till now.
+12:10:59,647 TRACE Crawler:107 - adding 0 tweets ...
+12:10:59,647  INFO CrawlerManager:60 - 0 tweets found.
+12:10:59,647  INFO CrawlerManager:72 - 0 tweets added to database.
+12:10:59,647  INFO Main:45 - Totally, 0 tweets found.
+12:10:59,647  INFO Main:43 - Searching for 500000 tweets using tag: نوستالژى
+12:10:59,647  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2019-06-08 to 2019-07-08]
+12:10:59,647 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:11:03,108 TRACE Crawler:81 - Page loaded.
+12:11:03,112 TRACE Crawler:84 - 20 tweets found till now.
+12:11:03,830 TRACE Crawler:101 - 40 tweets found till now.
+12:11:04,542 TRACE Crawler:101 - 60 tweets found till now.
+12:11:05,280 TRACE Crawler:101 - 74 tweets found till now.
+12:11:06,032 TRACE Crawler:101 - 87 tweets found till now.
+12:11:07,223 TRACE Crawler:101 - 99 tweets found till now.
+12:11:08,015 TRACE Crawler:101 - 111 tweets found till now.
+12:11:08,763 TRACE Crawler:101 - 124 tweets found till now.
+12:11:09,572 TRACE Crawler:101 - 135 tweets found till now.
+12:11:10,186 TRACE Crawler:101 - 151 tweets found till now.
+12:11:10,803 TRACE Crawler:101 - 166 tweets found till now.
+12:11:11,562 TRACE Crawler:101 - 176 tweets found till now.
+12:11:12,180 TRACE Crawler:101 - 178 tweets found till now.
+12:11:12,801 TRACE Crawler:101 - 178 tweets found till now.
+12:11:13,416 TRACE Crawler:101 - 178 tweets found till now.
+12:11:14,029 TRACE Crawler:101 - 178 tweets found till now.
+12:11:14,642 TRACE Crawler:101 - 178 tweets found till now.
+12:11:15,251 TRACE Crawler:101 - 178 tweets found till now.
+12:11:15,862 TRACE Crawler:101 - 178 tweets found till now.
+12:11:15,871 TRACE Crawler:107 - adding 178 tweets ...
+12:11:17,889  INFO CrawlerManager:60 - 173 tweets found.
+12:11:18,134  INFO CrawlerManager:72 - 173 tweets added to database.
+12:11:18,134  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2019-05-08 to 2019-06-07]
+12:11:18,135 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:11:20,691 TRACE Crawler:81 - Page loaded.
+12:11:20,882 TRACE Crawler:84 - 0 tweets found till now.
+12:11:20,882 TRACE Crawler:107 - adding 0 tweets ...
+12:11:20,882  INFO CrawlerManager:60 - 0 tweets found.
+12:11:20,882  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:20,882  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2019-03-08 to 2019-04-07]
+12:11:20,882 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:11:22,688 TRACE Crawler:81 - Page loaded.
+12:11:22,863 TRACE Crawler:84 - 0 tweets found till now.
+12:11:22,864 TRACE Crawler:107 - adding 0 tweets ...
+12:11:22,864  INFO CrawlerManager:60 - 0 tweets found.
+12:11:22,864  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:22,864  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2018-12-07 to 2019-01-06]
+12:11:22,864 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:11:29,280 TRACE Crawler:81 - Page loaded.
+12:11:29,281 TRACE Crawler:84 - 0 tweets found till now.
+12:11:29,282 TRACE Crawler:107 - adding 0 tweets ...
+12:11:29,282  INFO CrawlerManager:60 - 0 tweets found.
+12:11:29,282  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:29,282  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2018-08-08 to 2018-09-07]
+12:11:29,282 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:11:31,342 TRACE Crawler:81 - Page loaded.
+12:11:31,484 TRACE Crawler:84 - 0 tweets found till now.
+12:11:31,484 TRACE Crawler:107 - adding 0 tweets ...
+12:11:31,484  INFO CrawlerManager:60 - 0 tweets found.
+12:11:31,484  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:31,484  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2018-03-10 to 2018-04-09]
+12:11:31,484 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:11:33,704 TRACE Crawler:81 - Page loaded.
+12:11:33,896 TRACE Crawler:84 - 0 tweets found till now.
+12:11:33,896 TRACE Crawler:107 - adding 0 tweets ...
+12:11:33,896  INFO CrawlerManager:60 - 0 tweets found.
+12:11:33,896  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:33,896  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2017-09-10 to 2017-10-10]
+12:11:33,896 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:11:35,556 TRACE Crawler:81 - Page loaded.
+12:11:35,761 TRACE Crawler:84 - 0 tweets found till now.
+12:11:35,762 TRACE Crawler:107 - adding 0 tweets ...
+12:11:35,763  INFO CrawlerManager:60 - 0 tweets found.
+12:11:35,763  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:35,763  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2017-02-11 to 2017-03-13]
+12:11:35,763 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:11:38,272 TRACE Crawler:81 - Page loaded.
+12:11:38,450 TRACE Crawler:84 - 0 tweets found till now.
+12:11:38,451 TRACE Crawler:107 - adding 0 tweets ...
+12:11:38,451  INFO CrawlerManager:60 - 0 tweets found.
+12:11:38,451  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:38,451  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2016-06-15 to 2016-07-15]
+12:11:38,451 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:11:40,411 TRACE Crawler:81 - Page loaded.
+12:11:40,556 TRACE Crawler:84 - 0 tweets found till now.
+12:11:40,557 TRACE Crawler:107 - adding 0 tweets ...
+12:11:40,557  INFO CrawlerManager:60 - 0 tweets found.
+12:11:40,557  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:40,557  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2015-09-18 to 2015-10-18]
+12:11:40,557 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:11:42,713 TRACE Crawler:81 - Page loaded.
+12:11:42,892 TRACE Crawler:84 - 0 tweets found till now.
+12:11:42,893 TRACE Crawler:107 - adding 0 tweets ...
+12:11:42,893  INFO CrawlerManager:60 - 0 tweets found.
+12:11:42,893  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:42,893  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2014-11-21 to 2014-12-21]
+12:11:42,893 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:11:44,549 TRACE Crawler:81 - Page loaded.
+12:11:44,736 TRACE Crawler:84 - 0 tweets found till now.
+12:11:44,737 TRACE Crawler:107 - adding 0 tweets ...
+12:11:44,737  INFO CrawlerManager:60 - 0 tweets found.
+12:11:44,737  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:44,737  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2013-12-25 to 2014-01-24]
+12:11:44,737 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:11:47,898 TRACE Crawler:81 - Page loaded.
+12:11:48,075 TRACE Crawler:84 - 0 tweets found till now.
+12:11:48,076 TRACE Crawler:107 - adding 0 tweets ...
+12:11:48,076  INFO CrawlerManager:60 - 0 tweets found.
+12:11:48,076  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:48,076  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2012-12-29 to 2013-01-28]
+12:11:48,076 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:11:49,882 TRACE Crawler:81 - Page loaded.
+12:11:50,068 TRACE Crawler:84 - 0 tweets found till now.
+12:11:50,068 TRACE Crawler:107 - adding 0 tweets ...
+12:11:50,068  INFO CrawlerManager:60 - 0 tweets found.
+12:11:50,069  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:50,069  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2011-12-04 to 2012-01-03]
+12:11:50,069 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:11:52,376 TRACE Crawler:81 - Page loaded.
+12:11:52,534 TRACE Crawler:84 - 0 tweets found till now.
+12:11:52,535 TRACE Crawler:107 - adding 0 tweets ...
+12:11:52,535  INFO CrawlerManager:60 - 0 tweets found.
+12:11:52,535  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:52,535  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2010-10-09 to 2010-11-08]
+12:11:52,536 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:11:55,194 TRACE Crawler:81 - Page loaded.
+12:11:55,362 TRACE Crawler:84 - 0 tweets found till now.
+12:11:55,362 TRACE Crawler:107 - adding 0 tweets ...
+12:11:55,362  INFO CrawlerManager:60 - 0 tweets found.
+12:11:55,362  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:55,363  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2009-07-15 to 2009-08-14]
+12:11:55,363 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:11:57,018 TRACE Crawler:81 - Page loaded.
+12:11:57,199 TRACE Crawler:84 - 0 tweets found till now.
+12:11:57,200 TRACE Crawler:107 - adding 0 tweets ...
+12:11:57,200  INFO CrawlerManager:60 - 0 tweets found.
+12:11:57,200  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:57,200  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2008-03-21 to 2008-04-20]
+12:11:57,200 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:11:59,005 TRACE Crawler:81 - Page loaded.
+12:11:59,169 TRACE Crawler:84 - 0 tweets found till now.
+12:11:59,169 TRACE Crawler:107 - adding 0 tweets ...
+12:11:59,169  INFO CrawlerManager:60 - 0 tweets found.
+12:11:59,170  INFO CrawlerManager:72 - 0 tweets added to database.
+12:11:59,170  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2006-10-27 to 2006-11-26]
+12:11:59,170 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:12:01,176 TRACE Crawler:81 - Page loaded.
+12:12:01,343 TRACE Crawler:84 - 0 tweets found till now.
+12:12:01,343 TRACE Crawler:107 - adding 0 tweets ...
+12:12:01,343  INFO CrawlerManager:60 - 0 tweets found.
+12:12:01,343  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:01,343  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: نوستالژى[2005-05-04 to 2005-06-03]
+12:12:01,343 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="نوستالژى" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:12:03,299 TRACE Crawler:81 - Page loaded.
+12:12:03,482 TRACE Crawler:84 - 0 tweets found till now.
+12:12:03,483 TRACE Crawler:107 - adding 0 tweets ...
+12:12:03,483  INFO CrawlerManager:60 - 0 tweets found.
+12:12:03,483  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:03,483  INFO Main:45 - Totally, 0 tweets found.
+12:12:03,484  INFO Main:43 - Searching for 500000 tweets using tag: مهیب
+12:12:03,484  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2019-06-08 to 2019-07-08]
+12:12:03,484 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:12:07,303 TRACE Crawler:81 - Page loaded.
+12:12:07,306 TRACE Crawler:84 - 20 tweets found till now.
+12:12:08,008 TRACE Crawler:101 - 31 tweets found till now.
+12:12:08,613 TRACE Crawler:101 - 40 tweets found till now.
+12:12:09,264 TRACE Crawler:101 - 52 tweets found till now.
+12:12:09,878 TRACE Crawler:101 - 66 tweets found till now.
+12:12:11,167 TRACE Crawler:101 - 80 tweets found till now.
+12:12:11,779 TRACE Crawler:101 - 83 tweets found till now.
+12:12:12,389 TRACE Crawler:101 - 84 tweets found till now.
+12:12:12,999 TRACE Crawler:101 - 84 tweets found till now.
+12:12:13,611 TRACE Crawler:101 - 84 tweets found till now.
+12:12:14,219 TRACE Crawler:101 - 84 tweets found till now.
+12:12:14,829 TRACE Crawler:101 - 84 tweets found till now.
+12:12:15,436 TRACE Crawler:101 - 84 tweets found till now.
+12:12:16,047 TRACE Crawler:101 - 84 tweets found till now.
+12:12:16,054 TRACE Crawler:107 - adding 84 tweets ...
+12:12:17,093  INFO CrawlerManager:60 - 82 tweets found.
+12:12:17,205  INFO CrawlerManager:72 - 82 tweets added to database.
+12:12:17,205  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2019-05-08 to 2019-06-07]
+12:12:17,206 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:12:19,061 TRACE Crawler:81 - Page loaded.
+12:12:19,218 TRACE Crawler:84 - 0 tweets found till now.
+12:12:19,218 TRACE Crawler:107 - adding 0 tweets ...
+12:12:19,218  INFO CrawlerManager:60 - 0 tweets found.
+12:12:19,218  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:19,218  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2019-03-08 to 2019-04-07]
+12:12:19,218 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:12:21,474 TRACE Crawler:81 - Page loaded.
+12:12:21,646 TRACE Crawler:84 - 0 tweets found till now.
+12:12:21,647 TRACE Crawler:107 - adding 0 tweets ...
+12:12:21,647  INFO CrawlerManager:60 - 0 tweets found.
+12:12:21,647  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:21,647  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2018-12-07 to 2019-01-06]
+12:12:21,647 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:12:28,413 TRACE Crawler:81 - Page loaded.
+12:12:28,414 TRACE Crawler:84 - 0 tweets found till now.
+12:12:28,417 TRACE Crawler:107 - adding 0 tweets ...
+12:12:28,417  INFO CrawlerManager:60 - 0 tweets found.
+12:12:28,417  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:28,417  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2018-08-08 to 2018-09-07]
+12:12:28,417 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:12:31,026 TRACE Crawler:81 - Page loaded.
+12:12:31,233 TRACE Crawler:84 - 0 tweets found till now.
+12:12:31,233 TRACE Crawler:107 - adding 0 tweets ...
+12:12:31,233  INFO CrawlerManager:60 - 0 tweets found.
+12:12:31,233  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:31,233  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2018-03-10 to 2018-04-09]
+12:12:31,233 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:12:33,290 TRACE Crawler:81 - Page loaded.
+12:12:33,482 TRACE Crawler:84 - 0 tweets found till now.
+12:12:33,483 TRACE Crawler:107 - adding 0 tweets ...
+12:12:33,483  INFO CrawlerManager:60 - 0 tweets found.
+12:12:33,483  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:33,483  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2017-09-10 to 2017-10-10]
+12:12:33,483 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:12:35,038 TRACE Crawler:81 - Page loaded.
+12:12:35,235 TRACE Crawler:84 - 0 tweets found till now.
+12:12:35,235 TRACE Crawler:107 - adding 0 tweets ...
+12:12:35,235  INFO CrawlerManager:60 - 0 tweets found.
+12:12:35,235  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:35,236  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2017-02-11 to 2017-03-13]
+12:12:35,236 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:12:37,642 TRACE Crawler:81 - Page loaded.
+12:12:37,832 TRACE Crawler:84 - 0 tweets found till now.
+12:12:37,832 TRACE Crawler:107 - adding 0 tweets ...
+12:12:37,832  INFO CrawlerManager:60 - 0 tweets found.
+12:12:37,832  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:37,832  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2016-06-15 to 2016-07-15]
+12:12:37,832 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:12:39,487 TRACE Crawler:81 - Page loaded.
+12:12:39,647 TRACE Crawler:84 - 0 tweets found till now.
+12:12:39,647 TRACE Crawler:107 - adding 0 tweets ...
+12:12:39,647  INFO CrawlerManager:60 - 0 tweets found.
+12:12:39,647  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:39,647  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2015-09-18 to 2015-10-18]
+12:12:39,647 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:12:42,105 TRACE Crawler:81 - Page loaded.
+12:12:42,341 TRACE Crawler:84 - 0 tweets found till now.
+12:12:42,342 TRACE Crawler:107 - adding 0 tweets ...
+12:12:42,342  INFO CrawlerManager:60 - 0 tweets found.
+12:12:42,342  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:42,342  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2014-11-21 to 2014-12-21]
+12:12:42,342 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:12:44,349 TRACE Crawler:81 - Page loaded.
+12:12:44,511 TRACE Crawler:84 - 0 tweets found till now.
+12:12:44,512 TRACE Crawler:107 - adding 0 tweets ...
+12:12:44,512  INFO CrawlerManager:60 - 0 tweets found.
+12:12:44,512  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:44,512  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2013-12-25 to 2014-01-24]
+12:12:44,512 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:12:46,067 TRACE Crawler:81 - Page loaded.
+12:12:46,243 TRACE Crawler:84 - 0 tweets found till now.
+12:12:46,244 TRACE Crawler:107 - adding 0 tweets ...
+12:12:46,244  INFO CrawlerManager:60 - 0 tweets found.
+12:12:46,244  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:46,244  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2012-12-29 to 2013-01-28]
+12:12:46,244 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:12:48,751 TRACE Crawler:81 - Page loaded.
+12:12:48,934 TRACE Crawler:84 - 0 tweets found till now.
+12:12:48,934 TRACE Crawler:107 - adding 0 tweets ...
+12:12:48,934  INFO CrawlerManager:60 - 0 tweets found.
+12:12:48,935  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:48,935  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2011-12-04 to 2012-01-03]
+12:12:48,935 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:12:51,091 TRACE Crawler:81 - Page loaded.
+12:12:51,243 TRACE Crawler:84 - 0 tweets found till now.
+12:12:51,244 TRACE Crawler:107 - adding 0 tweets ...
+12:12:51,244  INFO CrawlerManager:60 - 0 tweets found.
+12:12:51,244  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:51,244  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2010-10-09 to 2010-11-08]
+12:12:51,244 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:12:54,052 TRACE Crawler:81 - Page loaded.
+12:12:54,231 TRACE Crawler:84 - 0 tweets found till now.
+12:12:54,231 TRACE Crawler:107 - adding 0 tweets ...
+12:12:54,231  INFO CrawlerManager:60 - 0 tweets found.
+12:12:54,232  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:54,232  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2009-07-15 to 2009-08-14]
+12:12:54,232 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:12:56,188 TRACE Crawler:81 - Page loaded.
+12:12:56,375 TRACE Crawler:84 - 0 tweets found till now.
+12:12:56,375 TRACE Crawler:107 - adding 0 tweets ...
+12:12:56,376  INFO CrawlerManager:60 - 0 tweets found.
+12:12:56,376  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:56,376  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2008-03-21 to 2008-04-20]
+12:12:56,376 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:12:58,532 TRACE Crawler:81 - Page loaded.
+12:12:58,703 TRACE Crawler:84 - 0 tweets found till now.
+12:12:58,704 TRACE Crawler:107 - adding 0 tweets ...
+12:12:58,704  INFO CrawlerManager:60 - 0 tweets found.
+12:12:58,704  INFO CrawlerManager:72 - 0 tweets added to database.
+12:12:58,704  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2006-10-27 to 2006-11-26]
+12:12:58,704 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:13:00,458 TRACE Crawler:81 - Page loaded.
+12:13:00,643 TRACE Crawler:84 - 0 tweets found till now.
+12:13:00,644 TRACE Crawler:107 - adding 0 tweets ...
+12:13:00,644  INFO CrawlerManager:60 - 0 tweets found.
+12:13:00,644  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:00,644  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: مهیب[2005-05-04 to 2005-06-03]
+12:13:00,644 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="مهیب" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:13:02,751 TRACE Crawler:81 - Page loaded.
+12:13:02,885 TRACE Crawler:84 - 0 tweets found till now.
+12:13:02,886 TRACE Crawler:107 - adding 0 tweets ...
+12:13:02,886  INFO CrawlerManager:60 - 0 tweets found.
+12:13:02,886  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:02,886  INFO Main:45 - Totally, 0 tweets found.
+12:13:02,886  INFO Main:43 - Searching for 500000 tweets using tag: اسکیت
+12:13:02,886  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2019-06-08 to 2019-07-08]
+12:13:02,886 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:13:06,497 TRACE Crawler:81 - Page loaded.
+12:13:06,501 TRACE Crawler:84 - 20 tweets found till now.
+12:13:07,177 TRACE Crawler:101 - 40 tweets found till now.
+12:13:07,966 TRACE Crawler:101 - 58 tweets found till now.
+12:13:08,573 TRACE Crawler:101 - 74 tweets found till now.
+12:13:09,185 TRACE Crawler:101 - 77 tweets found till now.
+12:13:09,797 TRACE Crawler:101 - 77 tweets found till now.
+12:13:10,408 TRACE Crawler:101 - 77 tweets found till now.
+12:13:11,014 TRACE Crawler:101 - 77 tweets found till now.
+12:13:11,622 TRACE Crawler:101 - 77 tweets found till now.
+12:13:12,231 TRACE Crawler:101 - 77 tweets found till now.
+12:13:12,840 TRACE Crawler:101 - 77 tweets found till now.
+12:13:12,847 TRACE Crawler:107 - adding 77 tweets ...
+12:13:13,807  INFO CrawlerManager:60 - 77 tweets found.
+12:13:13,914  INFO CrawlerManager:72 - 77 tweets added to database.
+12:13:13,914  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2019-05-08 to 2019-06-07]
+12:13:13,915 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:13:15,669 TRACE Crawler:81 - Page loaded.
+12:13:15,870 TRACE Crawler:84 - 0 tweets found till now.
+12:13:15,871 TRACE Crawler:107 - adding 0 tweets ...
+12:13:15,871  INFO CrawlerManager:60 - 0 tweets found.
+12:13:15,871  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:15,871  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2019-03-08 to 2019-04-07]
+12:13:15,871 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:13:18,478 TRACE Crawler:81 - Page loaded.
+12:13:18,677 TRACE Crawler:84 - 0 tweets found till now.
+12:13:18,678 TRACE Crawler:107 - adding 0 tweets ...
+12:13:18,678  INFO CrawlerManager:60 - 0 tweets found.
+12:13:18,678  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:18,679  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2018-12-07 to 2019-01-06]
+12:13:18,679 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:13:21,337 TRACE Crawler:81 - Page loaded.
+12:13:21,539 TRACE Crawler:84 - 0 tweets found till now.
+12:13:21,540 TRACE Crawler:107 - adding 0 tweets ...
+12:13:21,540  INFO CrawlerManager:60 - 0 tweets found.
+12:13:21,540  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:21,540  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2018-08-08 to 2018-09-07]
+12:13:21,540 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:13:24,047 TRACE Crawler:81 - Page loaded.
+12:13:24,259 TRACE Crawler:84 - 0 tweets found till now.
+12:13:24,260 TRACE Crawler:107 - adding 0 tweets ...
+12:13:24,260  INFO CrawlerManager:60 - 0 tweets found.
+12:13:24,260  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:24,260  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2018-03-10 to 2018-04-09]
+12:13:24,260 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:13:25,916 TRACE Crawler:81 - Page loaded.
+12:13:26,097 TRACE Crawler:84 - 0 tweets found till now.
+12:13:26,097 TRACE Crawler:107 - adding 0 tweets ...
+12:13:26,097  INFO CrawlerManager:60 - 0 tweets found.
+12:13:26,097  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:26,097  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2017-09-10 to 2017-10-10]
+12:13:26,097 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:13:27,853 TRACE Crawler:81 - Page loaded.
+12:13:28,063 TRACE Crawler:84 - 0 tweets found till now.
+12:13:28,064 TRACE Crawler:107 - adding 0 tweets ...
+12:13:28,064  INFO CrawlerManager:60 - 0 tweets found.
+12:13:28,064  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:28,065  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2017-02-11 to 2017-03-13]
+12:13:28,065 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:13:29,720 TRACE Crawler:81 - Page loaded.
+12:13:29,933 TRACE Crawler:84 - 0 tweets found till now.
+12:13:29,934 TRACE Crawler:107 - adding 0 tweets ...
+12:13:29,934  INFO CrawlerManager:60 - 0 tweets found.
+12:13:29,934  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:29,934  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2016-06-15 to 2016-07-15]
+12:13:29,934 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:13:31,990 TRACE Crawler:81 - Page loaded.
+12:13:32,177 TRACE Crawler:84 - 0 tweets found till now.
+12:13:32,177 TRACE Crawler:107 - adding 0 tweets ...
+12:13:32,177  INFO CrawlerManager:60 - 0 tweets found.
+12:13:32,177  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:32,177  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2015-09-18 to 2015-10-18]
+12:13:32,177 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:13:33,983 TRACE Crawler:81 - Page loaded.
+12:13:34,162 TRACE Crawler:84 - 0 tweets found till now.
+12:13:34,162 TRACE Crawler:107 - adding 0 tweets ...
+12:13:34,163  INFO CrawlerManager:60 - 0 tweets found.
+12:13:34,163  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:34,163  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2014-11-21 to 2014-12-21]
+12:13:34,163 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:13:35,918 TRACE Crawler:81 - Page loaded.
+12:13:36,117 TRACE Crawler:84 - 0 tweets found till now.
+12:13:36,118 TRACE Crawler:107 - adding 0 tweets ...
+12:13:36,118  INFO CrawlerManager:60 - 0 tweets found.
+12:13:36,118  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:36,118  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2013-12-25 to 2014-01-24]
+12:13:36,118 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:13:37,623 TRACE Crawler:81 - Page loaded.
+12:13:37,837 TRACE Crawler:84 - 0 tweets found till now.
+12:13:37,837 TRACE Crawler:107 - adding 0 tweets ...
+12:13:37,837  INFO CrawlerManager:60 - 0 tweets found.
+12:13:37,837  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:37,838  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2012-12-29 to 2013-01-28]
+12:13:37,838 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:13:40,246 TRACE Crawler:81 - Page loaded.
+12:13:40,433 TRACE Crawler:84 - 0 tweets found till now.
+12:13:40,434 TRACE Crawler:107 - adding 0 tweets ...
+12:13:40,434  INFO CrawlerManager:60 - 0 tweets found.
+12:13:40,434  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:40,434  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2011-12-04 to 2012-01-03]
+12:13:40,434 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:13:42,340 TRACE Crawler:81 - Page loaded.
+12:13:42,539 TRACE Crawler:84 - 0 tweets found till now.
+12:13:42,539 TRACE Crawler:107 - adding 0 tweets ...
+12:13:42,539  INFO CrawlerManager:60 - 0 tweets found.
+12:13:42,539  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:42,539  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2010-10-09 to 2010-11-08]
+12:13:42,539 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:13:44,697 TRACE Crawler:81 - Page loaded.
+12:13:44,884 TRACE Crawler:84 - 0 tweets found till now.
+12:13:44,885 TRACE Crawler:107 - adding 0 tweets ...
+12:13:44,885  INFO CrawlerManager:60 - 0 tweets found.
+12:13:44,885  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:44,885  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2009-07-15 to 2009-08-14]
+12:13:44,885 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:13:46,641 TRACE Crawler:81 - Page loaded.
+12:13:46,840 TRACE Crawler:84 - 0 tweets found till now.
+12:13:46,841 TRACE Crawler:107 - adding 0 tweets ...
+12:13:46,841  INFO CrawlerManager:60 - 0 tweets found.
+12:13:46,841  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:46,841  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2008-03-21 to 2008-04-20]
+12:13:46,841 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:13:48,511 TRACE Crawler:81 - Page loaded.
+12:13:48,755 TRACE Crawler:84 - 0 tweets found till now.
+12:13:48,756 TRACE Crawler:107 - adding 0 tweets ...
+12:13:48,756  INFO CrawlerManager:60 - 0 tweets found.
+12:13:48,756  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:48,756  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2006-10-27 to 2006-11-26]
+12:13:48,757 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:13:51,466 TRACE Crawler:81 - Page loaded.
+12:13:51,663 TRACE Crawler:84 - 0 tweets found till now.
+12:13:51,663 TRACE Crawler:107 - adding 0 tweets ...
+12:13:51,663  INFO CrawlerManager:60 - 0 tweets found.
+12:13:51,663  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:51,663  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: اسکیت[2005-05-04 to 2005-06-03]
+12:13:51,664 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="اسکیت" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:13:53,168 TRACE Crawler:81 - Page loaded.
+12:13:53,371 TRACE Crawler:84 - 0 tweets found till now.
+12:13:53,372 TRACE Crawler:107 - adding 0 tweets ...
+12:13:53,372  INFO CrawlerManager:60 - 0 tweets found.
+12:13:53,372  INFO CrawlerManager:72 - 0 tweets added to database.
+12:13:53,372  INFO Main:45 - Totally, 0 tweets found.
+12:13:53,372  INFO Main:43 - Searching for 500000 tweets using tag: سینمایی
+12:13:53,372  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2019-06-08 to 2019-07-08]
+12:13:53,372 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:13:57,689 TRACE Crawler:81 - Page loaded.
+12:13:57,692 TRACE Crawler:84 - 17 tweets found till now.
+12:13:58,462 TRACE Crawler:101 - 28 tweets found till now.
+12:13:59,184 TRACE Crawler:101 - 40 tweets found till now.
+12:13:59,839 TRACE Crawler:101 - 48 tweets found till now.
+12:14:00,448 TRACE Crawler:101 - 48 tweets found till now.
+12:14:01,322 TRACE Crawler:101 - 76 tweets found till now.
+12:14:02,109 TRACE Crawler:101 - 91 tweets found till now.
+12:14:02,936 TRACE Crawler:101 - 109 tweets found till now.
+12:14:03,626 TRACE Crawler:101 - 124 tweets found till now.
+12:14:04,412 TRACE Crawler:101 - 140 tweets found till now.
+12:14:05,110 TRACE Crawler:101 - 156 tweets found till now.
+12:14:05,798 TRACE Crawler:101 - 156 tweets found till now.
+12:14:06,408 TRACE Crawler:101 - 156 tweets found till now.
+12:14:07,018 TRACE Crawler:101 - 156 tweets found till now.
+12:14:07,640 TRACE Crawler:101 - 156 tweets found till now.
+12:14:08,255 TRACE Crawler:101 - 156 tweets found till now.
+12:14:08,865 TRACE Crawler:101 - 156 tweets found till now.
+12:14:08,873 TRACE Crawler:107 - adding 156 tweets ...
+12:14:10,780  INFO CrawlerManager:60 - 154 tweets found.
+12:14:10,969  INFO CrawlerManager:72 - 154 tweets added to database.
+12:14:10,970  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2019-05-08 to 2019-06-07]
+12:14:10,970 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:14:13,026 TRACE Crawler:81 - Page loaded.
+12:14:13,229 TRACE Crawler:84 - 0 tweets found till now.
+12:14:13,230 TRACE Crawler:107 - adding 0 tweets ...
+12:14:13,230  INFO CrawlerManager:60 - 0 tweets found.
+12:14:13,230  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:13,230  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2019-03-08 to 2019-04-07]
+12:14:13,230 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:14:15,036 TRACE Crawler:81 - Page loaded.
+12:14:15,219 TRACE Crawler:84 - 0 tweets found till now.
+12:14:15,219 TRACE Crawler:107 - adding 0 tweets ...
+12:14:15,219  INFO CrawlerManager:60 - 0 tweets found.
+12:14:15,219  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:15,220  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2018-12-07 to 2019-01-06]
+12:14:15,220 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2018-12-07 until%3A2019-01-06&src=typd
+12:14:17,174 TRACE Crawler:81 - Page loaded.
+12:14:17,401 TRACE Crawler:84 - 0 tweets found till now.
+12:14:17,402 TRACE Crawler:107 - adding 0 tweets ...
+12:14:17,402  INFO CrawlerManager:60 - 0 tweets found.
+12:14:17,402  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:17,402  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2018-08-08 to 2018-09-07]
+12:14:17,402 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2018-08-08 until%3A2018-09-07&src=typd
+12:14:19,307 TRACE Crawler:81 - Page loaded.
+12:14:19,488 TRACE Crawler:84 - 0 tweets found till now.
+12:14:19,488 TRACE Crawler:107 - adding 0 tweets ...
+12:14:19,488  INFO CrawlerManager:60 - 0 tweets found.
+12:14:19,488  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:19,488  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2018-03-10 to 2018-04-09]
+12:14:19,488 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2018-03-10 until%3A2018-04-09&src=typd
+12:14:20,943 TRACE Crawler:81 - Page loaded.
+12:14:21,140 TRACE Crawler:84 - 0 tweets found till now.
+12:14:21,141 TRACE Crawler:107 - adding 0 tweets ...
+12:14:21,141  INFO CrawlerManager:60 - 0 tweets found.
+12:14:21,141  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:21,141  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2017-09-10 to 2017-10-10]
+12:14:21,141 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2017-09-10 until%3A2017-10-10&src=typd
+12:14:23,048 TRACE Crawler:81 - Page loaded.
+12:14:23,234 TRACE Crawler:84 - 0 tweets found till now.
+12:14:23,234 TRACE Crawler:107 - adding 0 tweets ...
+12:14:23,234  INFO CrawlerManager:60 - 0 tweets found.
+12:14:23,234  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:23,234  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2017-02-11 to 2017-03-13]
+12:14:23,234 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2017-02-11 until%3A2017-03-13&src=typd
+12:14:25,290 TRACE Crawler:81 - Page loaded.
+12:14:25,467 TRACE Crawler:84 - 0 tweets found till now.
+12:14:25,468 TRACE Crawler:107 - adding 0 tweets ...
+12:14:25,468  INFO CrawlerManager:60 - 0 tweets found.
+12:14:25,468  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:25,468  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2016-06-15 to 2016-07-15]
+12:14:25,468 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2016-06-15 until%3A2016-07-15&src=typd
+12:14:27,574 TRACE Crawler:81 - Page loaded.
+12:14:27,797 TRACE Crawler:84 - 0 tweets found till now.
+12:14:27,798 TRACE Crawler:107 - adding 0 tweets ...
+12:14:27,798  INFO CrawlerManager:60 - 0 tweets found.
+12:14:27,798  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:27,798  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2015-09-18 to 2015-10-18]
+12:14:27,798 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2015-09-18 until%3A2015-10-18&src=typd
+12:14:30,306 TRACE Crawler:81 - Page loaded.
+12:14:30,541 TRACE Crawler:84 - 0 tweets found till now.
+12:14:30,541 TRACE Crawler:107 - adding 0 tweets ...
+12:14:30,542  INFO CrawlerManager:60 - 0 tweets found.
+12:14:30,542  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:30,542  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2014-11-21 to 2014-12-21]
+12:14:30,542 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2014-11-21 until%3A2014-12-21&src=typd
+12:14:32,047 TRACE Crawler:81 - Page loaded.
+12:14:32,245 TRACE Crawler:84 - 0 tweets found till now.
+12:14:32,246 TRACE Crawler:107 - adding 0 tweets ...
+12:14:32,246  INFO CrawlerManager:60 - 0 tweets found.
+12:14:32,246  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:32,246  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2013-12-25 to 2014-01-24]
+12:14:32,246 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2013-12-25 until%3A2014-01-24&src=typd
+12:14:34,756 TRACE Crawler:81 - Page loaded.
+12:14:34,959 TRACE Crawler:84 - 0 tweets found till now.
+12:14:34,959 TRACE Crawler:107 - adding 0 tweets ...
+12:14:34,959  INFO CrawlerManager:60 - 0 tweets found.
+12:14:34,959  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:34,959  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2012-12-29 to 2013-01-28]
+12:14:34,959 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2012-12-29 until%3A2013-01-28&src=typd
+12:14:37,167 TRACE Crawler:81 - Page loaded.
+12:14:37,366 TRACE Crawler:84 - 0 tweets found till now.
+12:14:37,367 TRACE Crawler:107 - adding 0 tweets ...
+12:14:37,367  INFO CrawlerManager:60 - 0 tweets found.
+12:14:37,367  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:37,367  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2011-12-04 to 2012-01-03]
+12:14:37,367 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2011-12-04 until%3A2012-01-03&src=typd
+12:14:39,523 TRACE Crawler:81 - Page loaded.
+12:14:39,711 TRACE Crawler:84 - 0 tweets found till now.
+12:14:39,712 TRACE Crawler:107 - adding 0 tweets ...
+12:14:39,712  INFO CrawlerManager:60 - 0 tweets found.
+12:14:39,712  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:39,712  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2010-10-09 to 2010-11-08]
+12:14:39,712 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2010-10-09 until%3A2010-11-08&src=typd
+12:14:42,071 TRACE Crawler:81 - Page loaded.
+12:14:42,273 TRACE Crawler:84 - 0 tweets found till now.
+12:14:42,273 TRACE Crawler:107 - adding 0 tweets ...
+12:14:42,273  INFO CrawlerManager:60 - 0 tweets found.
+12:14:42,273  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:42,274  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2009-07-15 to 2009-08-14]
+12:14:42,274 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2009-07-15 until%3A2009-08-14&src=typd
+12:14:44,580 TRACE Crawler:81 - Page loaded.
+12:14:44,799 TRACE Crawler:84 - 0 tweets found till now.
+12:14:44,800 TRACE Crawler:107 - adding 0 tweets ...
+12:14:44,800  INFO CrawlerManager:60 - 0 tweets found.
+12:14:44,800  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:44,800  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2008-03-21 to 2008-04-20]
+12:14:44,800 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2008-03-21 until%3A2008-04-20&src=typd
+12:14:47,157 TRACE Crawler:81 - Page loaded.
+12:14:47,385 TRACE Crawler:84 - 0 tweets found till now.
+12:14:47,386 TRACE Crawler:107 - adding 0 tweets ...
+12:14:47,386  INFO CrawlerManager:60 - 0 tweets found.
+12:14:47,386  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:47,386  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2006-10-27 to 2006-11-26]
+12:14:47,386 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2006-10-27 until%3A2006-11-26&src=typd
+12:14:49,944 TRACE Crawler:81 - Page loaded.
+12:14:50,138 TRACE Crawler:84 - 0 tweets found till now.
+12:14:50,138 TRACE Crawler:107 - adding 0 tweets ...
+12:14:50,138  INFO CrawlerManager:60 - 0 tweets found.
+12:14:50,138  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:50,138  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: سینمایی[2005-05-04 to 2005-06-03]
+12:14:50,138 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="سینمایی" since%3A2005-05-04 until%3A2005-06-03&src=typd
+12:14:52,295 TRACE Crawler:81 - Page loaded.
+12:14:52,593 TRACE Crawler:84 - 0 tweets found till now.
+12:14:52,595 TRACE Crawler:107 - adding 0 tweets ...
+12:14:52,595  INFO CrawlerManager:60 - 0 tweets found.
+12:14:52,595  INFO CrawlerManager:72 - 0 tweets added to database.
+12:14:52,595  INFO Main:45 - Totally, 0 tweets found.
+12:14:52,595  INFO Main:43 - Searching for 500000 tweets using tag: آتش_سوزی
+12:14:52,595  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: آتش_سوزی[2019-06-08 to 2019-07-08]
+12:14:52,595 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="آتش_سوزی" since%3A2019-06-08 until%3A2019-07-08&src=typd
+12:14:57,313 TRACE Crawler:81 - Page loaded.
+12:14:57,318 TRACE Crawler:84 - 20 tweets found till now.
+12:14:58,060 TRACE Crawler:101 - 36 tweets found till now.
+12:14:58,985 TRACE Crawler:101 - 47 tweets found till now.
+12:14:59,823 TRACE Crawler:101 - 55 tweets found till now.
+12:15:00,817 TRACE Crawler:101 - 66 tweets found till now.
+12:15:01,604 TRACE Crawler:101 - 74 tweets found till now.
+12:15:02,469 TRACE Crawler:101 - 93 tweets found till now.
+12:15:03,078 TRACE Crawler:101 - 97 tweets found till now.
+12:15:03,696 TRACE Crawler:101 - 99 tweets found till now.
+12:15:04,322 TRACE Crawler:101 - 101 tweets found till now.
+12:15:04,938 TRACE Crawler:101 - 101 tweets found till now.
+12:15:05,544 TRACE Crawler:101 - 101 tweets found till now.
+12:15:06,151 TRACE Crawler:101 - 101 tweets found till now.
+12:15:06,762 TRACE Crawler:101 - 101 tweets found till now.
+12:15:07,371 TRACE Crawler:101 - 101 tweets found till now.
+12:15:07,989 TRACE Crawler:101 - 101 tweets found till now.
+12:15:07,996 TRACE Crawler:107 - adding 101 tweets ...
+12:15:09,044  INFO CrawlerManager:60 - 98 tweets found.
+12:15:09,163  INFO CrawlerManager:72 - 98 tweets added to database.
+12:15:09,163  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: آتش_سوزی[2019-05-08 to 2019-06-07]
+12:15:09,163 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="آتش_سوزی" since%3A2019-05-08 until%3A2019-06-07&src=typd
+12:15:11,269 TRACE Crawler:81 - Page loaded.
+12:15:11,433 TRACE Crawler:84 - 0 tweets found till now.
+12:15:11,434 TRACE Crawler:107 - adding 0 tweets ...
+12:15:11,434  INFO CrawlerManager:60 - 0 tweets found.
+12:15:11,434  INFO CrawlerManager:72 - 0 tweets added to database.
+12:15:11,434  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: آتش_سوزی[2019-03-08 to 2019-04-07]
+12:15:11,434 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="آتش_سوزی" since%3A2019-03-08 until%3A2019-04-07&src=typd
+12:15:13,138 TRACE Crawler:81 - Page loaded.
+12:15:13,401 TRACE Crawler:84 - 0 tweets found till now.
+12:15:13,402 TRACE Crawler:107 - adding 0 tweets ...
+12:15:13,402  INFO CrawlerManager:60 - 0 tweets found.
+12:15:13,402  INFO CrawlerManager:72 - 0 tweets added to database.
+12:15:13,402  INFO CrawlerManager:52 - Searching for 2000 tweets using tag: آتش_سوزی[2018-12-07 to 2019-01-06]
+12:15:13,402 TRACE Crawler:79 - going to url: https://twitter.com/search?l=fa&q="آتش_سوزی" since%3A2018-12-07 until%3A2019-01-06&src=typd

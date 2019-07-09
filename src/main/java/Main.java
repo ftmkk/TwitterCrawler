@@ -16,8 +16,8 @@ public class Main {
         int tweetPerTimePeriod = 2000;
         int timePeriodInDays = 30;
         boolean headless = true;
-        String lang = "en";
-        String tagFile = "keyTags/searching_items.txt";
+        String lang = "fa";
+        String tagFile = "keyTags/tags.csv";
         boolean doubleSearchTags = true;
 
 
