@@ -2,23 +2,50 @@ import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.*;
 import java.util.*;
 
 public class Main {
 
     private static Logger logger = Logger.getLogger(Main.class);
 
+    private static Configuration readConfig(String path){
+        try (InputStream input = new FileInputStream(path)) {
+
+            Properties prop = new Properties();
+
+            // load a properties file
+            prop.load(input);
+
+            // get the property value and print it out
+            return new Configuration(
+                    Integer.parseInt(prop.getProperty("totalTweetCount")),
+                    Integer.parseInt(prop.getProperty("tweetPerTimePeriod")),
+                    Integer.parseInt(prop.getProperty("timePeriodInDays")),
+                    Boolean.parseBoolean(prop.getProperty("headless")),
+                    prop.getProperty("lang"),
+                    prop.getProperty("tagFile"),
+                    Boolean.parseBoolean(prop.getProperty("doubleSearchTags"))
+            );
+
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
+        return null;
+    }
+
     public static void main(String[] args) {
 
-        int totalTweetCount = 500000;
-        int tweetPerTimePeriod = 2000;
-        int timePeriodInDays = 30;
-        boolean headless = true;
-        String lang = "fa";
-        String tagFile = "keyTags/tags.csv";
-        boolean doubleSearchTags = true;
+        Configuration c = readConfig("config.properties");
+
+        assert c != null;
+        int totalTweetCount = c.getTotalTweetCount();
+        int tweetPerTimePeriod = c.getTweetPerTimePeriod();
+        int timePeriodInDays = c.getTimePeriodInDays();
+        boolean headless = c.isHeadless();
+        String lang = c.getLang();
+        String tagFile = c.getTagFile();
+        boolean doubleSearchTags = c.isDoubleSearchTags();
 
 
         logger.setLevel(Level.INFO);

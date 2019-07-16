@@ -68,7 +68,7 @@ public class Crawler {
 
         return "https://twitter.com/search?" +
                 "l="+lang+"" +
-                "&q=\""+tag+"\"" +
+                "&q=%23"+tag.replace("\u200C"," ").replace(" ","_") +
                 " since%3A"+dateFormat.format(startDate) +
                 " until%3A"+dateFormat.format(endDate)+
                 "&src=typd";
@@ -83,8 +83,8 @@ public class Crawler {
         int currentCount = driver.findElements(By.cssSelector(".tweet")).size();
         logger.trace(currentCount+" tweets found till now.");
         int lastCount;
-        int cntr = 0;
-        while (currentCount < desiredTweetCount && cntr <= 5 && currentCount>15) {
+        int sameResultCounter = 0;
+        while (currentCount < desiredTweetCount && sameResultCounter <= 5 && currentCount>15) {
             driver.executeScript("window.scrollTo(0, document.body.scrollHeight)");
             try {
                 Thread.sleep(600);
@@ -94,9 +94,9 @@ public class Crawler {
             lastCount = currentCount;
             currentCount = driver.findElements(By.cssSelector(".tweet")).size();
             if(lastCount==currentCount){
-                cntr++;
+                sameResultCounter++;
             }else{
-                cntr = 0;
+                sameResultCounter = 0;
             }
             logger.trace(currentCount+" tweets found till now.");
         }

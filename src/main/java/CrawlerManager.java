@@ -15,16 +15,17 @@ public class CrawlerManager {
 
     private static Logger logger = Logger.getLogger(CrawlerManager.class);
     private static DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+    private static int scale = 2;
 
     private int totalTweetCount;
     private int tweetPerTimePeriod;
-    private int timePeriodInDays;
+    private int initialTimePeriodInDays;
     private Crawler crawler;
 
-    public CrawlerManager(int totalTweetCount, int tweetPerTimePeriod, int timePeriodInDays, Crawler crawler) {
+    public CrawlerManager(int totalTweetCount, int tweetPerTimePeriod, int initialTimePeriodInDays, Crawler crawler) {
         this.totalTweetCount = totalTweetCount;
         this.tweetPerTimePeriod = tweetPerTimePeriod;
-        this.timePeriodInDays = timePeriodInDays;
+        this.initialTimePeriodInDays = initialTimePeriodInDays;
         this.crawler = crawler;
     }
 
@@ -40,14 +41,16 @@ public class CrawlerManager {
             e.printStackTrace();
         }
 
-        int lessThan20Counter = 0;
+        int timePeriodInDays = initialTimePeriodInDays;
         while(tweetCounter < totalTweetCount && startDate.compareTo(minDate)==1){
 
             List<Tweet> tweets = new ArrayList<>();
 
-            endDate = dateMinusDays(startDate,timePeriodInDays*lessThan20Counter+1);
+//            endDate = dateMinusDays(startDate,initialTimePeriodInDays*lessThan20Counter+1);
+//            startDate = dateMinusDays(endDate,initialTimePeriodInDays);
+            endDate = dateMinusDays(startDate,1);
+            startDate = dateMinusDays(endDate, timePeriodInDays);
 
-            startDate = dateMinusDays(endDate,timePeriodInDays);
 
             logger.info("Searching for "+
                     tweetPerTimePeriod+" tweets " +
@@ -59,10 +62,11 @@ public class CrawlerManager {
             tweets.addAll(crawler.fetchTweets(url,tag, tweetPerTimePeriod));
             logger.info(tweets.size()+" tweets found.");
 
-            if(tweets.size()<10){
-                lessThan20Counter++;
-            }else{
-                lessThan20Counter = 0;
+            if(tweets.size()<tweetPerTimePeriod/scale){
+                timePeriodInDays *= scale;
+            }
+            if(tweets.size()>tweetPerTimePeriod*scale && timePeriodInDays >2){
+                timePeriodInDays /= scale;
             }
 
             int sevedTweetCounter = 0;
